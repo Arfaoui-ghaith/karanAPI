@@ -1,0 +1,70 @@
+'use strict';
+const {
+  Model
+} = require('sequelize');
+module.exports = (sequelize, DataTypes) => {
+  class yep_desc_pref_terms extends Model {
+    /**
+     * Helper method for defining associations.
+     * This method is not a part of Sequelize lifecycle.
+     * The `models/index` file will call this method automatically.
+     */
+    static associate(models) {
+      // define association here
+    }
+  };
+  yep_desc_pref_terms.init({
+    task_id: {
+      type: DataTypes.INTEGER
+    },
+    trans_code: {
+      type: DataTypes.STRING(2)
+    },
+    trans_date: {
+      type: DataTypes.DATE
+    },
+    old_ui: {
+      type: DataTypes.INTEGER
+    },
+    old_rec_name: {
+      type: DataTypes.STRING(4000)
+    },
+    old_value: {
+      type: DataTypes.STRING(4000)
+    },
+    old_term_type: {
+      type: DataTypes.STRING(1)
+    },
+    old_term_ui: {
+      type: DataTypes.INTEGER
+    },
+    old_term_name: {
+      type: DataTypes.STRING(4000)
+    },
+    new_ui: {
+      type: DataTypes.INTEGER
+    },
+    new_rec_name: {
+      type: DataTypes.STRING(4000)
+    },
+    new_value: {
+      type: DataTypes.STRING(4000)
+    },
+    new_term_type: {
+      type: DataTypes.STRING(1)
+    },
+    new_term_ui: {
+      type: DataTypes.INTEGER
+    },
+    new_term_name: {
+      type: DataTypes.STRING(4000)
+    },
+    dcms_pt_ui: {
+      type: DataTypes.INTEGER
+    },
+  }, {
+    sequelize,
+    modelName: 'yep_desc_pref_terms',
+  });
+  return yep_desc_pref_terms;
+};

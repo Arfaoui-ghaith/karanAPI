@@ -1,0 +1,472 @@
+,Y,2019-12-03,72001,Healthy Diet,Healthy Diet,P,897850,,72001,"Diet, Healthy",Healthy Diet,T,897850,,0
+,Y,2019-12-03,9312,National Health Planning Information Center (U.S.),National Health Planning Information Center (U.S.),P,27770,,9312,"National Health Planning Information Center, U.S.",National Health Planning Information Center (U.S.),T,27770,,0
+,Y,2019-12-03,10043,Outcome and Process Assessment (Health Care),Outcome and Process Assessment (Health Care),P,29721,,10043,"Outcome and Process Assessment, Health Care",Outcome and Process Assessment (Health Care),T,29721,,0
+,Y,2019-12-03,13287,Street Drugs,Street Drugs,P,39029,,13287,Illicit Drugs,Street Drugs,T,39029,,0
+,Y,2019-12-03,17924,Nucleopolyhedrovirus,Nucleopolyhedrovirus,P,53575,,17924,Nucleopolyhedroviruses,Nucleopolyhedrovirus,T,53575,,0
+,Y,2019-12-03,1680,Biography as Topic,Biography as Topic,P,700493,,1680,Biographies as Topic,Biography as Topic,T,700493,,0
+,Y,2019-12-03,1325,Autobiography as Topic,Autobiography as Topic,P,770275,,1325,Autobiographies as Topic,Autobiography as Topic,T,770275,,0
+,Y,2019-12-03,1634,Bibliography as Topic,Bibliography as Topic,P,700489,,1634,Bibliographies as Topic,Bibliography as Topic,T,700489,,0
+,Y,2019-12-03,17063,Outcome Assessment (Health Care),Outcome Assessment (Health Care),P,50955,,17063,"Outcome Assessment, Health Care",Outcome Assessment (Health Care),T,50955,,0
+,Y,2019-12-03,11380,Programmed Instruction as Topic,Programmed Instruction as Topic,P,700793,,11380,Programmed Instructions as Topic,Programmed Instruction as Topic,T,700793,,0
+,Y,2019-12-03,5329,Fetishism (Psychiatric),Fetishism (Psychiatric),P,16271,,5329,"Fetishism, Psychiatric",Fetishism (Psychiatric),T,16271,,0
+,Y,2019-12-03,18479,Early Intervention (Education),Early Intervention (Education),P,55042,,18479,"Early Intervention, Educational",Early Intervention (Education),T,55042,,0
+,R,2019-12-03,78622,Nutrients,0,,,,78622,Nutrients,,,,,
+,R,2019-12-03,43586,Methylmalonyl-CoA Decarboxylase,EC 4.1.1.41,,,,43586,Methylmalonyl-CoA Decarboxylase,EC 7.2.4.3,,,,
+,R,2019-12-03,63210,N-Terminal Acetyltransferase B,EC 2.3.1.88,,,,63210,N-Terminal Acetyltransferase B,EC 2.3.1.255,,,,
+,R,2019-12-03,14450,Electron Transport Complex III,EC 1.10.2.2,,,,14450,Electron Transport Complex III,EC 7.1.1.8,,,,
+,R,2019-12-03,63211,N-Terminal Acetyltransferase C,EC 2.3.1.88,,,,63211,N-Terminal Acetyltransferase C,EC 2.3.1.256,,,,
+,R,2019-12-03,63212,N-Terminal Acetyltransferase D,EC 2.3.1.88,,,,63212,N-Terminal Acetyltransferase D,EC 2.3.1.257,,,,
+,R,2019-12-03,63214,N-Terminal Acetyltransferase F,EC 2.3.1.88,,,,63214,N-Terminal Acetyltransferase F,EC 2.3.1.259,,,,
+,R,2019-12-03,5722,gamma-Glutamylcyclotransferase,EC 2.3.2.4,,,,5722,gamma-Glutamylcyclotransferase,EC 4.3.2.9,,,,
+,R,2019-12-03,72478,Cytochrome P450 Family 17,EC 4.1.2.30,,,,72478,Cytochrome P450 Family 17,EC 1.14.14.32,,,,
+,R,2019-12-03,74201,Katanin,EC 3.6.4.3,,,,74201,Katanin,EC 5.6.1.1,,,,
+,R,2019-12-03,15090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,EC 1.14.13.13,,,,15090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,EC 1.14.15.18,,,,
+,R,2019-12-03,50547,Plastoquinol-Plastocyanin Reductase,EC 1.10.9.1,,,,50547,Plastoquinol-Plastocyanin Reductase,EC 7.1.1.6,,,,
+,R,2019-12-03,50564,Trans-Cinnamate 4-Monooxygenase,EC 1.14.13.11,,,,50564,Trans-Cinnamate 4-Monooxygenase,EC 1.14.14.91,,,,
+,R,2019-12-03,50565,Benzoate 4-Monooxygenase,EC 1.14.13.12,,,,50565,Benzoate 4-Monooxygenase,EC 1.14.14.92,,,,
+,R,2019-12-03,72505,Cytochrome P450 Family 51,EC 1.14.13.70,,,,72505,Cytochrome P450 Family 51,EC 1.14.14.154,,,,
+,R,2019-12-03,58886,Sterol 14-Demethylase,EC 1.14.13.70,,,,58886,Sterol 14-Demethylase,EC 1.14.14.154,,,,
+,R,2019-12-03,5560,Formate Dehydrogenases,EC 1.2.1.2,,,,5560,Formate Dehydrogenases,EC 1.17.1.9,,,,
+,R,2019-12-03,42967,Electron Transport Complex I,EC 1.6.5.3,,,,42967,Electron Transport Complex I,EC 7.1.1.2,,,,
+,R,2019-12-03,63209,N-Terminal Acetyltransferase A,EC 2.3.1.88,,,,63209,N-Terminal Acetyltransferase A,EC 2.3.1.254,,,,
+,R,2019-12-03,63213,N-Terminal Acetyltransferase E,EC 2.3.1.88,,,,63213,N-Terminal Acetyltransferase E,EC 2.3.1.258,,,,
+,R,2019-12-03,73840,Copper-transporting ATPases,EC 3.6.3.54,,,,73840,Copper-Transporting ATPases,EC 7.2.2.8,,,,
+,R,2019-12-03,252,Calcium-Transporting ATPases,EC 3.6.3.8,,,,252,Calcium-Transporting ATPases,EC 7.2.2.10,,,,
+,R,2019-12-03,254,Sodium-Potassium-Exchanging ATPase,EC 3.6.3.9,,,,254,Sodium-Potassium-Exchanging ATPase,EC 7.2.2.13,,,,
+,R,2019-12-03,487,Allethrin,0X03II877M,,,,487,Allethrins,0,,,,
+,R,2019-12-03,4286,Dolichol,2067-66-5,,,,4286,Dolichols,0,,,,
+,W,2019-12-03,73840,Copper-transporting ATPases,Copper-transporting ATPases,P,912178,,73840,Copper-Transporting ATPases,Copper-Transporting ATPases,P,949196,,
+,W,2019-12-03,76242,"MTOR Associated Protein, LST8 Homolog","MTOR Associated Protein, LST8 Homolog",P,925750,,76242,"mTOR Associated Protein, LST8 Homolog","mTOR Associated Protein, LST8 Homolog",P,946337,,
+,W,2019-12-03,1240,Aspirations (Psychology),Aspirations (Psychology),P,3710,,1240,"Aspirations, Psychological","Aspirations, Psychological",P,947270,,
+,W,2019-12-03,2391,Catchment Area (Health),Catchment Area (Health),P,6921,,2391,"Catchment Area, Health","Catchment Area, Health",P,946269,,
+,W,2019-12-03,2487,Centers for Disease Control and Prevention (U.S.),Centers for Disease Control and Prevention (U.S.),P,7258,,2487,"Centers for Disease Control and Prevention, U.S.","Centers for Disease Control and Prevention, U.S.",P,946270,,
+,W,2019-12-03,3213,Conditioning (Psychology),Conditioning (Psychology),P,9375,,3213,"Conditioning, Psychological","Conditioning, Psychological",P,947278,,
+,W,2019-12-03,3220,Conflict (Psychology),Conflict (Psychology),P,9398,,3220,"Conflict, Psychological","Conflict, Psychological",P,947279,,
+,W,2019-12-03,3379,Countertransference (Psychology),Countertransference (Psychology),P,9850,,3379,Countertransference,Countertransference,P,9849,,
+,W,2019-12-03,3423,Critical Period (Psychology),Critical Period (Psychology),P,9954,,3423,"Critical Period, Psychological","Critical Period, Psychological",P,947303,,
+,W,2019-12-03,3717,Denial (Psychology),Denial (Psychology),P,10889,,3717,"Denial, Psychological","Denial, Psychological",P,947286,,
+,W,2019-12-03,3858,Dependency (Psychology),Dependency (Psychology),P,11475,,3858,"Dependency, Psychological","Dependency, Psychological",P,947287,,
+,W,2019-12-03,4192,Discrimination (Psychology),Discrimination (Psychology),P,12738,,4192,"Discrimination, Psychological","Discrimination, Psychological",P,947288,,
+,W,2019-12-03,4208,Displacement (Psychology),Displacement (Psychology),P,12781,,4208,"Displacement, Psychological","Displacement, Psychological",P,947289,,
+,W,2019-12-03,7859,Learning Disorders,Learning Disorders,P,23448,,7859,Learning Disabilities,Learning Disabilities,P,372712,,
+,Y,2019-12-03,9724,Nurseries,Nurseries,P,28882,,9724,"Nurseries, Infant",Nurseries,T,28882,,0
+,W,2019-12-03,15986,Confounding Factors (Epidemiology),Confounding Factors (Epidemiology),P,47452,,15986,"Confounding Factors, Epidemiologic","Confounding Factors, Epidemiologic",P,947283,,
+,W,2019-12-03,17004,Codependency (Psychology),Codependency (Psychology),P,50786,,17004,"Codependency, Psychological","Codependency, Psychological",P,947277,,
+,W,2019-12-03,18843,Macedonia (Republic),Macedonia (Republic),P,56177,,18843,Republic of North Macedonia,Republic of North Macedonia,P,952282,,
+,W,2019-12-03,14487,Centers for Medicare and Medicaid Services (U.S.),Centers for Medicare and Medicaid Services (U.S.),P,451492,,14487,"Centers for Medicare and Medicaid Services, U.S.","Centers for Medicare and Medicaid Services, U.S.",P,946272,,
+,W,2019-12-03,33364,Decapoda (Crustacea),Decapoda (Crustacea),P,466977,,33364,Decapoda,Decapoda,P,947284,,
+,W,2019-12-03,66240,Anterior Cerebellar Commissure,Anterior Cerebellar Commissure,P,858126,,66240,"Anterior Commissure, Brain","Anterior Commissure, Brain",P,858204,,
+,Y,2019-12-03,1892,Bornanes,Bornanes,P,5399,,1892,Camphanes,Bornanes,T,5399,,0
+,Y,2019-12-03,4490,Xenarthra,Xenarthra,P,13699,,4490,Cingulata,Xenarthra,T,13699,,0
+,Y,2019-12-03,63369,Literature Based Discovery,Literature Based Discovery,P,821268,,63369,Knowledge Discovery,Literature Based Discovery,T,821268,,0
+,Y,2019-12-03,17064,Process Assessment (Health Care),Process Assessment (Health Care),P,50961,,17064,"Process Assessment, Health Care",Process Assessment (Health Care),T,50961,,0
+,Y,2019-12-03,6372,Helix (Snails),Helix (Snails),P,19283,,6372,"Helix, Snails",Helix (Snails),T,19283,,0
+,Y,2019-12-03,487,Allethrin,Allethrin,P,1435,,487,Allethrins,Allethrin,T,1435,,0
+,Y,2019-12-03,55873,Extreme Cold,Extreme Cold,P,719735,,55873,Extreme Cold Weather,Extreme Cold,T,719735,,0
+,Y,2019-12-03,15713,Duplicate Publication as Topic,Duplicate Publication as Topic,P,700649,,15713,Duplicate Publications as Topic,Duplicate Publication as Topic,T,700649,,0
+,Y,2019-12-03,7983,Lewis Blood-Group System,Lewis Blood-Group System,P,23797,,7983,Lewis Blood Group Antigens,Lewis Blood-Group System,T,23797,,0
+,Y,2019-12-03,1936,Moraxella (Branhamella) catarrhalis,Moraxella (Branhamella) catarrhalis,P,5518,,1936,Moraxella catarrhalis,Moraxella (Branhamella) catarrhalis,T,5518,,0
+,Y,2019-12-03,16955,Moraxella (Moraxella) bovis,Moraxella (Moraxella) bovis,P,50711,,16955,Moraxella bovis,Moraxella (Moraxella) bovis,T,50711,,0
+,Y,2019-12-03,12860,Skates (Fish),Skates (Fish),P,37918,,12860,"Skates, Fish",Skates (Fish),T,37918,,0
+,Y,2019-12-03,16626,Shadowing (Histology),Shadowing (Histology),P,49771,,16626,"Shadowing Technique, Histology",Shadowing (Histology),T,49771,,0
+,Y,2019-12-03,7239,Infection,Infection,P,21695,,7239,Infections,Infection,T,21695,,0
+,Y,2019-12-03,12059,Rejection (Psychology),Rejection (Psychology),P,35889,,12059,"Rejection, Psychology",Rejection (Psychology),T,35889,,0
+,Y,2019-12-03,11209,Power (Psychology),Power (Psychology),P,33018,,11209,"Power, Psychological",Power (Psychology),T,33018,,0
+,Y,2019-12-03,4286,Dolichol,Dolichol,P,13036,,4286,Dolichols,Dolichol,T,13036,,0
+,Y,2019-12-03,77564,Focused Assessment with Sonography of Trauma,Focused Assessment with Sonography of Trauma,P,940288,,77564,Focused Assessment with Sonography for Trauma,Focused Assessment with Sonography of Trauma,T,940288,,0
+,Y,2019-12-03,20177,"Hypersomnolence, Idiopathic","Hypersomnolence, Idiopathic",P,358334,,20177,Idiopathic Hypersomnia,"Hypersomnolence, Idiopathic",T,358334,,0
+,Y,2019-12-03,5793,Generalization (Psychology),Generalization (Psychology),P,17461,,5793,"Generalization, Psychological",Generalization (Psychology),T,17461,,0
+,Y,2019-12-03,7721,Knowledge of Results (Psychology),Knowledge of Results (Psychology),P,23161,,7721,"Knowledge of Results, Psychological",Knowledge of Results (Psychology),T,23161,,0
+,Y,2019-12-03,14473,Unconscious (Psychology),Unconscious (Psychology),P,42340,,14473,"Unconscious, Psychology",Unconscious (Psychology),T,42340,,0
+,Y,2019-12-03,18537,Mercury (Planet),Mercury (Planet),P,55184,,18537,"Mercury, Planet",Mercury (Planet),T,55184,,0
+,Y,2019-12-03,18534,Earth (Planet),Earth (Planet),P,55179,,18534,"Earth, Planet",Earth (Planet),T,55179,,0
+,Y,2019-12-03,45784,"Diterpenes, Abietane","Diterpenes, Abietane",P,540552,,45784,Abietanes,"Diterpenes, Abietane",T,540552,,0
+,Y,2019-12-03,7837,Latency Period (Psychology),Latency Period (Psychology),P,23414,,7837,"Latency Period, Psychological",Latency Period (Psychology),T,23414,,0
+,Y,2019-12-03,5120,Extraversion (Psychology),Extraversion (Psychology),P,15672,,5120,"Extraversion, Psychological",Extraversion (Psychology),T,15672,,0
+,Y,2019-12-03,6234,Handling (Psychology),Handling (Psychology),P,18907,,6234,"Handling, Psychological",Handling (Psychology),T,18907,,0
+,Y,2019-12-03,11214,Practice (Psychology),Practice (Psychology),P,33035,,11214,"Practice, Psychological",Practice (Psychology),T,33035,,0
+,Y,2019-12-03,12054,Reinforcement (Psychology),Reinforcement (Psychology),P,35881,,12054,"Reinforcement, Psychology",Reinforcement (Psychology),T,35881,,0
+,Y,2019-12-03,19018,Imagery (Psychotherapy),Imagery (Psychotherapy),P,56754,,19018,"Imagery, Psychotherapy",Imagery (Psychotherapy),T,56754,,0
+,Y,2019-12-03,8282,Mainstreaming (Education),Mainstreaming (Education),P,24705,,8282,"Mainstreaming, Education",Mainstreaming (Education),T,24705,,0
+,Y,2019-12-03,12043,Regression (Psychology),Regression (Psychology),P,35849,,12043,"Regression, Psychology",Regression (Psychology),T,35849,,0
+,Y,2019-12-03,7739,L Cells (Cell Line),L Cells (Cell Line),P,23191,,7739,L Cells,L Cells (Cell Line),T,23191,,0
+,Y,2019-12-03,14163,Transfer (Psychology),Transfer (Psychology),P,41489,,14163,"Transfer, Psychology",Transfer (Psychology),T,41489,,0
+,Y,2019-12-03,14167,Transference (Psychology),Transference (Psychology),P,41498,,14167,"Transference, Psychology",Transference (Psychology),T,41498,,0
+,Y,2019-12-03,13014,SOS Response (Genetics),SOS Response (Genetics),P,38364,,13014,"SOS Response, Genetics",SOS Response (Genetics),T,38364,,0
+,Y,2019-12-03,63306,Mitochondrial Degradation,Mitochondrial Degradation,P,820668,,63306,Mitophagy,Mitochondrial Degradation,T,820668,,0
+,Y,2019-12-03,12153,Retention (Psychology),Retention (Psychology),P,36186,,12153,"Retention, Psychology",Retention (Psychology),T,36186,,0
+,Y,2019-12-03,12718,Set (Psychology),Set (Psychology),P,37587,,12718,"Set, Psychology",Set (Psychology),T,37587,,0
+,Y,2019-12-03,7062,Identification (Psychology),Identification (Psychology),P,21126,,7062,"Identification, Psychological",Identification (Psychology),T,21126,,0
+,Y,2019-12-03,7173,Imprinting (Psychology),Imprinting (Psychology),P,21513,,7173,"Imprinting, Psychological",Imprinting (Psychology),T,21513,,0
+,Y,2019-12-03,7266,Inhibition (Psychology),Inhibition (Psychology),P,21784,,7266,"Inhibition, Psychological",Inhibition (Psychology),T,21784,,0
+,Y,2019-12-03,7439,Introversion (Psychology),Introversion (Psychology),P,22347,,7439,"Introversion, Psychological",Introversion (Psychology),T,22347,,0
+,Y,2019-12-03,21641,Recognition (Psychology),Recognition (Psychology),P,25502,,21641,"Recognition, Psychology",Recognition (Psychology),T,25502,,0
+,Y,2019-12-03,13541,Swaziland,Swaziland,P,39849,,13541,Eswatini,Swaziland,T,39849,,0
+,Y,2019-12-03,16571,Neural Networks (Computer),Neural Networks (Computer),P,49575,,16571,"Neural Networks, Computer",Neural Networks (Computer),T,49575,,0
+,Y,2019-12-03,329,Advertising as Topic,Advertising as Topic,P,700456,,329,Advertising,Advertising as Topic,T,700456,,0
+,Y,2019-12-03,6021,Glycophorin,Glycophorin,P,18305,,6021,Glycophorins,Glycophorin,T,18305,,0
+,Y,2019-12-03,43,Abstracting and Indexing as Topic,Abstracting and Indexing as Topic,P,700404,,43,Abstracting and Indexing,Abstracting and Indexing as Topic,T,700404,,0
+,Y,2019-12-03,5085,Exhibits as Topic,Exhibits as Topic,P,700662,,5085,Exhibitions as Topic,Exhibits as Topic,T,700662,,0
+,Y,2019-12-03,74421,Fermented Foods,Fermented Foods,P,915844,,74421,Fermented Foods and Beverages,Fermented Foods,T,915844,,0
+,Y,2019-12-03,2522,Cercopithecus aethiops,Chlorocebus aethiops,T,871596,,2522,Chlorocebus aethiops,Chlorocebus aethiops,P,871596,,0
+,Y,2019-12-03,78646,Diary as Topic,Diaries as Topic,T,943123,,78646,Diaries as Topic,Diaries as Topic,P,943123,,0
+,Y,2019-12-03,9314,National Institute for Occupational Safety and Health (U.S.),National Institute for Occupational Safety and Health (U.S.),P,27781,,9314,"National Institute for Occupational Safety and Health, U.S.",National Institute for Occupational Safety and Health (U.S.),T,27781,,0
+,Y,2019-12-03,72644,Study Guide as Topic,Study Guide as Topic,P,900817,,72644,Study Guides as Topic,Study Guide as Topic,T,900817,,0
+,Y,2019-12-03,9308,National Center for Health Care Technology (U.S.),National Center for Health Care Technology (U.S.),P,27762,,9308,"National Center for Health Care Technology, U.S.",National Center for Health Care Technology (U.S.),T,27762,,0
+,Y,2019-12-03,15969,"National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division","National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division",P,903515,,15969,"National Academies of Science, Engineering, and Medicine, U.S., Health and Medicine Division","National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division",T,903515,,0
+,Y,2019-12-03,9309,National Center for Health Statistics (U.S.),National Center for Health Statistics (U.S.),P,27764,,9309,"National Center for Health Statistics, U.S.",National Center for Health Statistics (U.S.),T,27764,,0
+,Y,2019-12-03,9307,National Academy of Sciences (U.S.),National Academy of Sciences (U.S.),P,27755,,9307,"National Academy of Sciences, U.S.",National Academy of Sciences (U.S.),T,27755,,0
+,Y,2019-12-03,72001,Healthy Diet,Healthy Diet,P,897850,,72001,"Diet, Healthy",Healthy Diet,T,897850,,0
+,Y,2019-12-03,9312,National Health Planning Information Center (U.S.),National Health Planning Information Center (U.S.),P,27770,,9312,"National Health Planning Information Center, U.S.",National Health Planning Information Center (U.S.),T,27770,,0
+,Y,2019-12-03,10043,Outcome and Process Assessment (Health Care),Outcome and Process Assessment (Health Care),P,29721,,10043,"Outcome and Process Assessment, Health Care",Outcome and Process Assessment (Health Care),T,29721,,0
+,Y,2019-12-03,13287,Street Drugs,Street Drugs,P,39029,,13287,Illicit Drugs,Street Drugs,T,39029,,0
+,Y,2019-12-03,17924,Nucleopolyhedrovirus,Nucleopolyhedrovirus,P,53575,,17924,Nucleopolyhedroviruses,Nucleopolyhedrovirus,T,53575,,0
+,Y,2019-12-03,1680,Biography as Topic,Biography as Topic,P,700493,,1680,Biographies as Topic,Biography as Topic,T,700493,,0
+,Y,2019-12-03,1325,Autobiography as Topic,Autobiography as Topic,P,770275,,1325,Autobiographies as Topic,Autobiography as Topic,T,770275,,0
+,Y,2019-12-03,1634,Bibliography as Topic,Bibliography as Topic,P,700489,,1634,Bibliographies as Topic,Bibliography as Topic,T,700489,,0
+,Y,2019-12-03,17063,Outcome Assessment (Health Care),Outcome Assessment (Health Care),P,50955,,17063,"Outcome Assessment, Health Care",Outcome Assessment (Health Care),T,50955,,0
+,Y,2019-12-03,11380,Programmed Instruction as Topic,Programmed Instruction as Topic,P,700793,,11380,Programmed Instructions as Topic,Programmed Instruction as Topic,T,700793,,0
+,Y,2019-12-03,5329,Fetishism (Psychiatric),Fetishism (Psychiatric),P,16271,,5329,"Fetishism, Psychiatric",Fetishism (Psychiatric),T,16271,,0
+,Y,2019-12-03,18479,Early Intervention (Education),Early Intervention (Education),P,55042,,18479,"Early Intervention, Educational",Early Intervention (Education),T,55042,,0
+,R,2019-12-03,78622,Nutrients,0,,,,78622,Nutrients,,,,,
+,R,2019-12-03,43586,Methylmalonyl-CoA Decarboxylase,EC 4.1.1.41,,,,43586,Methylmalonyl-CoA Decarboxylase,EC 7.2.4.3,,,,
+,R,2019-12-03,63210,N-Terminal Acetyltransferase B,EC 2.3.1.88,,,,63210,N-Terminal Acetyltransferase B,EC 2.3.1.255,,,,
+,R,2019-12-03,14450,Electron Transport Complex III,EC 1.10.2.2,,,,14450,Electron Transport Complex III,EC 7.1.1.8,,,,
+,R,2019-12-03,63211,N-Terminal Acetyltransferase C,EC 2.3.1.88,,,,63211,N-Terminal Acetyltransferase C,EC 2.3.1.256,,,,
+,R,2019-12-03,63212,N-Terminal Acetyltransferase D,EC 2.3.1.88,,,,63212,N-Terminal Acetyltransferase D,EC 2.3.1.257,,,,
+,R,2019-12-03,63214,N-Terminal Acetyltransferase F,EC 2.3.1.88,,,,63214,N-Terminal Acetyltransferase F,EC 2.3.1.259,,,,
+,R,2019-12-03,5722,gamma-Glutamylcyclotransferase,EC 2.3.2.4,,,,5722,gamma-Glutamylcyclotransferase,EC 4.3.2.9,,,,
+,R,2019-12-03,72478,Cytochrome P450 Family 17,EC 4.1.2.30,,,,72478,Cytochrome P450 Family 17,EC 1.14.14.32,,,,
+,R,2019-12-03,74201,Katanin,EC 3.6.4.3,,,,74201,Katanin,EC 5.6.1.1,,,,
+,R,2019-12-03,15090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,EC 1.14.13.13,,,,15090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,EC 1.14.15.18,,,,
+,R,2019-12-03,50547,Plastoquinol-Plastocyanin Reductase,EC 1.10.9.1,,,,50547,Plastoquinol-Plastocyanin Reductase,EC 7.1.1.6,,,,
+,R,2019-12-03,50564,Trans-Cinnamate 4-Monooxygenase,EC 1.14.13.11,,,,50564,Trans-Cinnamate 4-Monooxygenase,EC 1.14.14.91,,,,
+,R,2019-12-03,50565,Benzoate 4-Monooxygenase,EC 1.14.13.12,,,,50565,Benzoate 4-Monooxygenase,EC 1.14.14.92,,,,
+,R,2019-12-03,72505,Cytochrome P450 Family 51,EC 1.14.13.70,,,,72505,Cytochrome P450 Family 51,EC 1.14.14.154,,,,
+,R,2019-12-03,58886,Sterol 14-Demethylase,EC 1.14.13.70,,,,58886,Sterol 14-Demethylase,EC 1.14.14.154,,,,
+,R,2019-12-03,5560,Formate Dehydrogenases,EC 1.2.1.2,,,,5560,Formate Dehydrogenases,EC 1.17.1.9,,,,
+,R,2019-12-03,42967,Electron Transport Complex I,EC 1.6.5.3,,,,42967,Electron Transport Complex I,EC 7.1.1.2,,,,
+,R,2019-12-03,63209,N-Terminal Acetyltransferase A,EC 2.3.1.88,,,,63209,N-Terminal Acetyltransferase A,EC 2.3.1.254,,,,
+,R,2019-12-03,63213,N-Terminal Acetyltransferase E,EC 2.3.1.88,,,,63213,N-Terminal Acetyltransferase E,EC 2.3.1.258,,,,
+,R,2019-12-03,73840,Copper-transporting ATPases,EC 3.6.3.54,,,,73840,Copper-Transporting ATPases,EC 7.2.2.8,,,,
+,R,2019-12-03,252,Calcium-Transporting ATPases,EC 3.6.3.8,,,,252,Calcium-Transporting ATPases,EC 7.2.2.10,,,,
+,R,2019-12-03,254,Sodium-Potassium-Exchanging ATPase,EC 3.6.3.9,,,,254,Sodium-Potassium-Exchanging ATPase,EC 7.2.2.13,,,,
+,R,2019-12-03,487,Allethrin,0X03II877M,,,,487,Allethrins,0,,,,
+,R,2019-12-03,4286,Dolichol,2067-66-5,,,,4286,Dolichols,0,,,,
+,W,2019-12-03,73840,Copper-transporting ATPases,Copper-transporting ATPases,P,912178,,73840,Copper-Transporting ATPases,Copper-Transporting ATPases,P,949196,,
+,W,2019-12-03,76242,"MTOR Associated Protein, LST8 Homolog","MTOR Associated Protein, LST8 Homolog",P,925750,,76242,"mTOR Associated Protein, LST8 Homolog","mTOR Associated Protein, LST8 Homolog",P,946337,,
+,W,2019-12-03,1240,Aspirations (Psychology),Aspirations (Psychology),P,3710,,1240,"Aspirations, Psychological","Aspirations, Psychological",P,947270,,
+,W,2019-12-03,2391,Catchment Area (Health),Catchment Area (Health),P,6921,,2391,"Catchment Area, Health","Catchment Area, Health",P,946269,,
+,W,2019-12-03,2487,Centers for Disease Control and Prevention (U.S.),Centers for Disease Control and Prevention (U.S.),P,7258,,2487,"Centers for Disease Control and Prevention, U.S.","Centers for Disease Control and Prevention, U.S.",P,946270,,
+,W,2019-12-03,3213,Conditioning (Psychology),Conditioning (Psychology),P,9375,,3213,"Conditioning, Psychological","Conditioning, Psychological",P,947278,,
+,W,2019-12-03,3220,Conflict (Psychology),Conflict (Psychology),P,9398,,3220,"Conflict, Psychological","Conflict, Psychological",P,947279,,
+,W,2019-12-03,3379,Countertransference (Psychology),Countertransference (Psychology),P,9850,,3379,Countertransference,Countertransference,P,9849,,
+,W,2019-12-03,3423,Critical Period (Psychology),Critical Period (Psychology),P,9954,,3423,"Critical Period, Psychological","Critical Period, Psychological",P,947303,,
+,W,2019-12-03,3717,Denial (Psychology),Denial (Psychology),P,10889,,3717,"Denial, Psychological","Denial, Psychological",P,947286,,
+,W,2019-12-03,3858,Dependency (Psychology),Dependency (Psychology),P,11475,,3858,"Dependency, Psychological","Dependency, Psychological",P,947287,,
+,W,2019-12-03,4192,Discrimination (Psychology),Discrimination (Psychology),P,12738,,4192,"Discrimination, Psychological","Discrimination, Psychological",P,947288,,
+,W,2019-12-03,4208,Displacement (Psychology),Displacement (Psychology),P,12781,,4208,"Displacement, Psychological","Displacement, Psychological",P,947289,,
+,W,2019-12-03,7859,Learning Disorders,Learning Disorders,P,23448,,7859,Learning Disabilities,Learning Disabilities,P,372712,,
+,Y,2019-12-03,9724,Nurseries,Nurseries,P,28882,,9724,"Nurseries, Infant",Nurseries,T,28882,,0
+,W,2019-12-03,15986,Confounding Factors (Epidemiology),Confounding Factors (Epidemiology),P,47452,,15986,"Confounding Factors, Epidemiologic","Confounding Factors, Epidemiologic",P,947283,,
+,W,2019-12-03,17004,Codependency (Psychology),Codependency (Psychology),P,50786,,17004,"Codependency, Psychological","Codependency, Psychological",P,947277,,
+,W,2019-12-03,18843,Macedonia (Republic),Macedonia (Republic),P,56177,,18843,Republic of North Macedonia,Republic of North Macedonia,P,952282,,
+,W,2019-12-03,14487,Centers for Medicare and Medicaid Services (U.S.),Centers for Medicare and Medicaid Services (U.S.),P,451492,,14487,"Centers for Medicare and Medicaid Services, U.S.","Centers for Medicare and Medicaid Services, U.S.",P,946272,,
+,W,2019-12-03,33364,Decapoda (Crustacea),Decapoda (Crustacea),P,466977,,33364,Decapoda,Decapoda,P,947284,,
+,W,2019-12-03,66240,Anterior Cerebellar Commissure,Anterior Cerebellar Commissure,P,858126,,66240,"Anterior Commissure, Brain","Anterior Commissure, Brain",P,858204,,
+,Y,2019-12-03,1892,Bornanes,Bornanes,P,5399,,1892,Camphanes,Bornanes,T,5399,,0
+,Y,2019-12-03,4490,Xenarthra,Xenarthra,P,13699,,4490,Cingulata,Xenarthra,T,13699,,0
+,Y,2019-12-03,63369,Literature Based Discovery,Literature Based Discovery,P,821268,,63369,Knowledge Discovery,Literature Based Discovery,T,821268,,0
+,Y,2019-12-03,17064,Process Assessment (Health Care),Process Assessment (Health Care),P,50961,,17064,"Process Assessment, Health Care",Process Assessment (Health Care),T,50961,,0
+,Y,2019-12-03,6372,Helix (Snails),Helix (Snails),P,19283,,6372,"Helix, Snails",Helix (Snails),T,19283,,0
+,Y,2019-12-03,487,Allethrin,Allethrin,P,1435,,487,Allethrins,Allethrin,T,1435,,0
+,Y,2019-12-03,55873,Extreme Cold,Extreme Cold,P,719735,,55873,Extreme Cold Weather,Extreme Cold,T,719735,,0
+,Y,2019-12-03,15713,Duplicate Publication as Topic,Duplicate Publication as Topic,P,700649,,15713,Duplicate Publications as Topic,Duplicate Publication as Topic,T,700649,,0
+,Y,2019-12-03,7983,Lewis Blood-Group System,Lewis Blood-Group System,P,23797,,7983,Lewis Blood Group Antigens,Lewis Blood-Group System,T,23797,,0
+,Y,2019-12-03,1936,Moraxella (Branhamella) catarrhalis,Moraxella (Branhamella) catarrhalis,P,5518,,1936,Moraxella catarrhalis,Moraxella (Branhamella) catarrhalis,T,5518,,0
+,Y,2019-12-03,16955,Moraxella (Moraxella) bovis,Moraxella (Moraxella) bovis,P,50711,,16955,Moraxella bovis,Moraxella (Moraxella) bovis,T,50711,,0
+,Y,2019-12-03,12860,Skates (Fish),Skates (Fish),P,37918,,12860,"Skates, Fish",Skates (Fish),T,37918,,0
+,Y,2019-12-03,16626,Shadowing (Histology),Shadowing (Histology),P,49771,,16626,"Shadowing Technique, Histology",Shadowing (Histology),T,49771,,0
+,Y,2019-12-03,7239,Infection,Infection,P,21695,,7239,Infections,Infection,T,21695,,0
+,Y,2019-12-03,12059,Rejection (Psychology),Rejection (Psychology),P,35889,,12059,"Rejection, Psychology",Rejection (Psychology),T,35889,,0
+,Y,2019-12-03,11209,Power (Psychology),Power (Psychology),P,33018,,11209,"Power, Psychological",Power (Psychology),T,33018,,0
+,Y,2019-12-03,4286,Dolichol,Dolichol,P,13036,,4286,Dolichols,Dolichol,T,13036,,0
+,Y,2019-12-03,77564,Focused Assessment with Sonography of Trauma,Focused Assessment with Sonography of Trauma,P,940288,,77564,Focused Assessment with Sonography for Trauma,Focused Assessment with Sonography of Trauma,T,940288,,0
+,Y,2019-12-03,20177,"Hypersomnolence, Idiopathic","Hypersomnolence, Idiopathic",P,358334,,20177,Idiopathic Hypersomnia,"Hypersomnolence, Idiopathic",T,358334,,0
+,Y,2019-12-03,5793,Generalization (Psychology),Generalization (Psychology),P,17461,,5793,"Generalization, Psychological",Generalization (Psychology),T,17461,,0
+,Y,2019-12-03,7721,Knowledge of Results (Psychology),Knowledge of Results (Psychology),P,23161,,7721,"Knowledge of Results, Psychological",Knowledge of Results (Psychology),T,23161,,0
+,Y,2019-12-03,14473,Unconscious (Psychology),Unconscious (Psychology),P,42340,,14473,"Unconscious, Psychology",Unconscious (Psychology),T,42340,,0
+,Y,2019-12-03,18537,Mercury (Planet),Mercury (Planet),P,55184,,18537,"Mercury, Planet",Mercury (Planet),T,55184,,0
+,Y,2019-12-03,18534,Earth (Planet),Earth (Planet),P,55179,,18534,"Earth, Planet",Earth (Planet),T,55179,,0
+,Y,2019-12-03,45784,"Diterpenes, Abietane","Diterpenes, Abietane",P,540552,,45784,Abietanes,"Diterpenes, Abietane",T,540552,,0
+,Y,2019-12-03,7837,Latency Period (Psychology),Latency Period (Psychology),P,23414,,7837,"Latency Period, Psychological",Latency Period (Psychology),T,23414,,0
+,Y,2019-12-03,5120,Extraversion (Psychology),Extraversion (Psychology),P,15672,,5120,"Extraversion, Psychological",Extraversion (Psychology),T,15672,,0
+,Y,2019-12-03,6234,Handling (Psychology),Handling (Psychology),P,18907,,6234,"Handling, Psychological",Handling (Psychology),T,18907,,0
+,Y,2019-12-03,11214,Practice (Psychology),Practice (Psychology),P,33035,,11214,"Practice, Psychological",Practice (Psychology),T,33035,,0
+,Y,2019-12-03,12054,Reinforcement (Psychology),Reinforcement (Psychology),P,35881,,12054,"Reinforcement, Psychology",Reinforcement (Psychology),T,35881,,0
+,Y,2019-12-03,19018,Imagery (Psychotherapy),Imagery (Psychotherapy),P,56754,,19018,"Imagery, Psychotherapy",Imagery (Psychotherapy),T,56754,,0
+,Y,2019-12-03,8282,Mainstreaming (Education),Mainstreaming (Education),P,24705,,8282,"Mainstreaming, Education",Mainstreaming (Education),T,24705,,0
+,Y,2019-12-03,12043,Regression (Psychology),Regression (Psychology),P,35849,,12043,"Regression, Psychology",Regression (Psychology),T,35849,,0
+,Y,2019-12-03,7739,L Cells (Cell Line),L Cells (Cell Line),P,23191,,7739,L Cells,L Cells (Cell Line),T,23191,,0
+,Y,2019-12-03,14163,Transfer (Psychology),Transfer (Psychology),P,41489,,14163,"Transfer, Psychology",Transfer (Psychology),T,41489,,0
+,Y,2019-12-03,14167,Transference (Psychology),Transference (Psychology),P,41498,,14167,"Transference, Psychology",Transference (Psychology),T,41498,,0
+,Y,2019-12-03,13014,SOS Response (Genetics),SOS Response (Genetics),P,38364,,13014,"SOS Response, Genetics",SOS Response (Genetics),T,38364,,0
+,Y,2019-12-03,63306,Mitochondrial Degradation,Mitochondrial Degradation,P,820668,,63306,Mitophagy,Mitochondrial Degradation,T,820668,,0
+,Y,2019-12-03,12153,Retention (Psychology),Retention (Psychology),P,36186,,12153,"Retention, Psychology",Retention (Psychology),T,36186,,0
+,Y,2019-12-03,12718,Set (Psychology),Set (Psychology),P,37587,,12718,"Set, Psychology",Set (Psychology),T,37587,,0
+,Y,2019-12-03,7062,Identification (Psychology),Identification (Psychology),P,21126,,7062,"Identification, Psychological",Identification (Psychology),T,21126,,0
+,Y,2019-12-03,7173,Imprinting (Psychology),Imprinting (Psychology),P,21513,,7173,"Imprinting, Psychological",Imprinting (Psychology),T,21513,,0
+,Y,2019-12-03,7266,Inhibition (Psychology),Inhibition (Psychology),P,21784,,7266,"Inhibition, Psychological",Inhibition (Psychology),T,21784,,0
+,Y,2019-12-03,7439,Introversion (Psychology),Introversion (Psychology),P,22347,,7439,"Introversion, Psychological",Introversion (Psychology),T,22347,,0
+,Y,2019-12-03,21641,Recognition (Psychology),Recognition (Psychology),P,25502,,21641,"Recognition, Psychology",Recognition (Psychology),T,25502,,0
+,Y,2019-12-03,13541,Swaziland,Swaziland,P,39849,,13541,Eswatini,Swaziland,T,39849,,0
+,Y,2019-12-03,16571,Neural Networks (Computer),Neural Networks (Computer),P,49575,,16571,"Neural Networks, Computer",Neural Networks (Computer),T,49575,,0
+,Y,2019-12-03,329,Advertising as Topic,Advertising as Topic,P,700456,,329,Advertising,Advertising as Topic,T,700456,,0
+,Y,2019-12-03,6021,Glycophorin,Glycophorin,P,18305,,6021,Glycophorins,Glycophorin,T,18305,,0
+,Y,2019-12-03,43,Abstracting and Indexing as Topic,Abstracting and Indexing as Topic,P,700404,,43,Abstracting and Indexing,Abstracting and Indexing as Topic,T,700404,,0
+,Y,2019-12-03,5085,Exhibits as Topic,Exhibits as Topic,P,700662,,5085,Exhibitions as Topic,Exhibits as Topic,T,700662,,0
+,Y,2019-12-03,74421,Fermented Foods,Fermented Foods,P,915844,,74421,Fermented Foods and Beverages,Fermented Foods,T,915844,,0
+,Y,2019-12-03,2522,Cercopithecus aethiops,Chlorocebus aethiops,T,871596,,2522,Chlorocebus aethiops,Chlorocebus aethiops,P,871596,,0
+,Y,2019-12-03,78646,Diary as Topic,Diaries as Topic,T,943123,,78646,Diaries as Topic,Diaries as Topic,P,943123,,0
+,Y,2019-12-03,9314,National Institute for Occupational Safety and Health (U.S.),National Institute for Occupational Safety and Health (U.S.),P,27781,,9314,"National Institute for Occupational Safety and Health, U.S.",National Institute for Occupational Safety and Health (U.S.),T,27781,,0
+,Y,2019-12-03,72644,Study Guide as Topic,Study Guide as Topic,P,900817,,72644,Study Guides as Topic,Study Guide as Topic,T,900817,,0
+,Y,2019-12-03,9308,National Center for Health Care Technology (U.S.),National Center for Health Care Technology (U.S.),P,27762,,9308,"National Center for Health Care Technology, U.S.",National Center for Health Care Technology (U.S.),T,27762,,0
+,Y,2019-12-03,15969,"National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division","National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division",P,903515,,15969,"National Academies of Science, Engineering, and Medicine, U.S., Health and Medicine Division","National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division",T,903515,,0
+,Y,2019-12-03,9309,National Center for Health Statistics (U.S.),National Center for Health Statistics (U.S.),P,27764,,9309,"National Center for Health Statistics, U.S.",National Center for Health Statistics (U.S.),T,27764,,0
+,Y,2019-12-03,9307,National Academy of Sciences (U.S.),National Academy of Sciences (U.S.),P,27755,,9307,"National Academy of Sciences, U.S.",National Academy of Sciences (U.S.),T,27755,,0
+,Y,2019-12-03,72001,Healthy Diet,Healthy Diet,P,897850,,72001,"Diet, Healthy",Healthy Diet,T,897850,,0
+,Y,2019-12-03,9312,National Health Planning Information Center (U.S.),National Health Planning Information Center (U.S.),P,27770,,9312,"National Health Planning Information Center, U.S.",National Health Planning Information Center (U.S.),T,27770,,0
+,Y,2019-12-03,10043,Outcome and Process Assessment (Health Care),Outcome and Process Assessment (Health Care),P,29721,,10043,"Outcome and Process Assessment, Health Care",Outcome and Process Assessment (Health Care),T,29721,,0
+,Y,2019-12-03,13287,Street Drugs,Street Drugs,P,39029,,13287,Illicit Drugs,Street Drugs,T,39029,,0
+,Y,2019-12-03,17924,Nucleopolyhedrovirus,Nucleopolyhedrovirus,P,53575,,17924,Nucleopolyhedroviruses,Nucleopolyhedrovirus,T,53575,,0
+,Y,2019-12-03,1680,Biography as Topic,Biography as Topic,P,700493,,1680,Biographies as Topic,Biography as Topic,T,700493,,0
+,Y,2019-12-03,1325,Autobiography as Topic,Autobiography as Topic,P,770275,,1325,Autobiographies as Topic,Autobiography as Topic,T,770275,,0
+,Y,2019-12-03,1634,Bibliography as Topic,Bibliography as Topic,P,700489,,1634,Bibliographies as Topic,Bibliography as Topic,T,700489,,0
+,Y,2019-12-03,17063,Outcome Assessment (Health Care),Outcome Assessment (Health Care),P,50955,,17063,"Outcome Assessment, Health Care",Outcome Assessment (Health Care),T,50955,,0
+,Y,2019-12-03,11380,Programmed Instruction as Topic,Programmed Instruction as Topic,P,700793,,11380,Programmed Instructions as Topic,Programmed Instruction as Topic,T,700793,,0
+,Y,2019-12-03,5329,Fetishism (Psychiatric),Fetishism (Psychiatric),P,16271,,5329,"Fetishism, Psychiatric",Fetishism (Psychiatric),T,16271,,0
+,Y,2019-12-03,18479,Early Intervention (Education),Early Intervention (Education),P,55042,,18479,"Early Intervention, Educational",Early Intervention (Education),T,55042,,0
+,R,2019-12-03,78622,Nutrients,0,,,,78622,Nutrients,,,,,
+,R,2019-12-03,43586,Methylmalonyl-CoA Decarboxylase,EC 4.1.1.41,,,,43586,Methylmalonyl-CoA Decarboxylase,EC 7.2.4.3,,,,
+,R,2019-12-03,63210,N-Terminal Acetyltransferase B,EC 2.3.1.88,,,,63210,N-Terminal Acetyltransferase B,EC 2.3.1.255,,,,
+,R,2019-12-03,14450,Electron Transport Complex III,EC 1.10.2.2,,,,14450,Electron Transport Complex III,EC 7.1.1.8,,,,
+,R,2019-12-03,63211,N-Terminal Acetyltransferase C,EC 2.3.1.88,,,,63211,N-Terminal Acetyltransferase C,EC 2.3.1.256,,,,
+,R,2019-12-03,63212,N-Terminal Acetyltransferase D,EC 2.3.1.88,,,,63212,N-Terminal Acetyltransferase D,EC 2.3.1.257,,,,
+,R,2019-12-03,63214,N-Terminal Acetyltransferase F,EC 2.3.1.88,,,,63214,N-Terminal Acetyltransferase F,EC 2.3.1.259,,,,
+,R,2019-12-03,5722,gamma-Glutamylcyclotransferase,EC 2.3.2.4,,,,5722,gamma-Glutamylcyclotransferase,EC 4.3.2.9,,,,
+,R,2019-12-03,72478,Cytochrome P450 Family 17,EC 4.1.2.30,,,,72478,Cytochrome P450 Family 17,EC 1.14.14.32,,,,
+,R,2019-12-03,74201,Katanin,EC 3.6.4.3,,,,74201,Katanin,EC 5.6.1.1,,,,
+,R,2019-12-03,15090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,EC 1.14.13.13,,,,15090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,EC 1.14.15.18,,,,
+,R,2019-12-03,50547,Plastoquinol-Plastocyanin Reductase,EC 1.10.9.1,,,,50547,Plastoquinol-Plastocyanin Reductase,EC 7.1.1.6,,,,
+,R,2019-12-03,50564,Trans-Cinnamate 4-Monooxygenase,EC 1.14.13.11,,,,50564,Trans-Cinnamate 4-Monooxygenase,EC 1.14.14.91,,,,
+,R,2019-12-03,50565,Benzoate 4-Monooxygenase,EC 1.14.13.12,,,,50565,Benzoate 4-Monooxygenase,EC 1.14.14.92,,,,
+,R,2019-12-03,72505,Cytochrome P450 Family 51,EC 1.14.13.70,,,,72505,Cytochrome P450 Family 51,EC 1.14.14.154,,,,
+,R,2019-12-03,58886,Sterol 14-Demethylase,EC 1.14.13.70,,,,58886,Sterol 14-Demethylase,EC 1.14.14.154,,,,
+,R,2019-12-03,5560,Formate Dehydrogenases,EC 1.2.1.2,,,,5560,Formate Dehydrogenases,EC 1.17.1.9,,,,
+,R,2019-12-03,42967,Electron Transport Complex I,EC 1.6.5.3,,,,42967,Electron Transport Complex I,EC 7.1.1.2,,,,
+,R,2019-12-03,63209,N-Terminal Acetyltransferase A,EC 2.3.1.88,,,,63209,N-Terminal Acetyltransferase A,EC 2.3.1.254,,,,
+,R,2019-12-03,63213,N-Terminal Acetyltransferase E,EC 2.3.1.88,,,,63213,N-Terminal Acetyltransferase E,EC 2.3.1.258,,,,
+,R,2019-12-03,73840,Copper-transporting ATPases,EC 3.6.3.54,,,,73840,Copper-Transporting ATPases,EC 7.2.2.8,,,,
+,R,2019-12-03,252,Calcium-Transporting ATPases,EC 3.6.3.8,,,,252,Calcium-Transporting ATPases,EC 7.2.2.10,,,,
+,R,2019-12-03,254,Sodium-Potassium-Exchanging ATPase,EC 3.6.3.9,,,,254,Sodium-Potassium-Exchanging ATPase,EC 7.2.2.13,,,,
+,R,2019-12-03,487,Allethrin,0X03II877M,,,,487,Allethrins,0,,,,
+,R,2019-12-03,4286,Dolichol,2067-66-5,,,,4286,Dolichols,0,,,,
+,W,2019-12-03,73840,Copper-transporting ATPases,Copper-transporting ATPases,P,912178,,73840,Copper-Transporting ATPases,Copper-Transporting ATPases,P,949196,,
+,W,2019-12-03,76242,"MTOR Associated Protein, LST8 Homolog","MTOR Associated Protein, LST8 Homolog",P,925750,,76242,"mTOR Associated Protein, LST8 Homolog","mTOR Associated Protein, LST8 Homolog",P,946337,,
+,W,2019-12-03,1240,Aspirations (Psychology),Aspirations (Psychology),P,3710,,1240,"Aspirations, Psychological","Aspirations, Psychological",P,947270,,
+,W,2019-12-03,2391,Catchment Area (Health),Catchment Area (Health),P,6921,,2391,"Catchment Area, Health","Catchment Area, Health",P,946269,,
+,W,2019-12-03,2487,Centers for Disease Control and Prevention (U.S.),Centers for Disease Control and Prevention (U.S.),P,7258,,2487,"Centers for Disease Control and Prevention, U.S.","Centers for Disease Control and Prevention, U.S.",P,946270,,
+,W,2019-12-03,3213,Conditioning (Psychology),Conditioning (Psychology),P,9375,,3213,"Conditioning, Psychological","Conditioning, Psychological",P,947278,,
+,W,2019-12-03,3220,Conflict (Psychology),Conflict (Psychology),P,9398,,3220,"Conflict, Psychological","Conflict, Psychological",P,947279,,
+,W,2019-12-03,3379,Countertransference (Psychology),Countertransference (Psychology),P,9850,,3379,Countertransference,Countertransference,P,9849,,
+,W,2019-12-03,3423,Critical Period (Psychology),Critical Period (Psychology),P,9954,,3423,"Critical Period, Psychological","Critical Period, Psychological",P,947303,,
+,W,2019-12-03,3717,Denial (Psychology),Denial (Psychology),P,10889,,3717,"Denial, Psychological","Denial, Psychological",P,947286,,
+,W,2019-12-03,3858,Dependency (Psychology),Dependency (Psychology),P,11475,,3858,"Dependency, Psychological","Dependency, Psychological",P,947287,,
+,W,2019-12-03,4192,Discrimination (Psychology),Discrimination (Psychology),P,12738,,4192,"Discrimination, Psychological","Discrimination, Psychological",P,947288,,
+,W,2019-12-03,4208,Displacement (Psychology),Displacement (Psychology),P,12781,,4208,"Displacement, Psychological","Displacement, Psychological",P,947289,,
+,W,2019-12-03,7859,Learning Disorders,Learning Disorders,P,23448,,7859,Learning Disabilities,Learning Disabilities,P,372712,,
+,Y,2019-12-03,9724,Nurseries,Nurseries,P,28882,,9724,"Nurseries, Infant",Nurseries,T,28882,,0
+,W,2019-12-03,15986,Confounding Factors (Epidemiology),Confounding Factors (Epidemiology),P,47452,,15986,"Confounding Factors, Epidemiologic","Confounding Factors, Epidemiologic",P,947283,,
+,W,2019-12-03,17004,Codependency (Psychology),Codependency (Psychology),P,50786,,17004,"Codependency, Psychological","Codependency, Psychological",P,947277,,
+,W,2019-12-03,18843,Macedonia (Republic),Macedonia (Republic),P,56177,,18843,Republic of North Macedonia,Republic of North Macedonia,P,952282,,
+,W,2019-12-03,14487,Centers for Medicare and Medicaid Services (U.S.),Centers for Medicare and Medicaid Services (U.S.),P,451492,,14487,"Centers for Medicare and Medicaid Services, U.S.","Centers for Medicare and Medicaid Services, U.S.",P,946272,,
+,W,2019-12-03,33364,Decapoda (Crustacea),Decapoda (Crustacea),P,466977,,33364,Decapoda,Decapoda,P,947284,,
+,W,2019-12-03,66240,Anterior Cerebellar Commissure,Anterior Cerebellar Commissure,P,858126,,66240,"Anterior Commissure, Brain","Anterior Commissure, Brain",P,858204,,
+,Y,2019-12-03,1892,Bornanes,Bornanes,P,5399,,1892,Camphanes,Bornanes,T,5399,,0
+,Y,2019-12-03,4490,Xenarthra,Xenarthra,P,13699,,4490,Cingulata,Xenarthra,T,13699,,0
+,Y,2019-12-03,63369,Literature Based Discovery,Literature Based Discovery,P,821268,,63369,Knowledge Discovery,Literature Based Discovery,T,821268,,0
+,Y,2019-12-03,17064,Process Assessment (Health Care),Process Assessment (Health Care),P,50961,,17064,"Process Assessment, Health Care",Process Assessment (Health Care),T,50961,,0
+,Y,2019-12-03,6372,Helix (Snails),Helix (Snails),P,19283,,6372,"Helix, Snails",Helix (Snails),T,19283,,0
+,Y,2019-12-03,487,Allethrin,Allethrin,P,1435,,487,Allethrins,Allethrin,T,1435,,0
+,Y,2019-12-03,55873,Extreme Cold,Extreme Cold,P,719735,,55873,Extreme Cold Weather,Extreme Cold,T,719735,,0
+,Y,2019-12-03,15713,Duplicate Publication as Topic,Duplicate Publication as Topic,P,700649,,15713,Duplicate Publications as Topic,Duplicate Publication as Topic,T,700649,,0
+,Y,2019-12-03,7983,Lewis Blood-Group System,Lewis Blood-Group System,P,23797,,7983,Lewis Blood Group Antigens,Lewis Blood-Group System,T,23797,,0
+,Y,2019-12-03,1936,Moraxella (Branhamella) catarrhalis,Moraxella (Branhamella) catarrhalis,P,5518,,1936,Moraxella catarrhalis,Moraxella (Branhamella) catarrhalis,T,5518,,0
+,Y,2019-12-03,16955,Moraxella (Moraxella) bovis,Moraxella (Moraxella) bovis,P,50711,,16955,Moraxella bovis,Moraxella (Moraxella) bovis,T,50711,,0
+,Y,2019-12-03,12860,Skates (Fish),Skates (Fish),P,37918,,12860,"Skates, Fish",Skates (Fish),T,37918,,0
+,Y,2019-12-03,16626,Shadowing (Histology),Shadowing (Histology),P,49771,,16626,"Shadowing Technique, Histology",Shadowing (Histology),T,49771,,0
+,Y,2019-12-03,7239,Infection,Infection,P,21695,,7239,Infections,Infection,T,21695,,0
+,Y,2019-12-03,12059,Rejection (Psychology),Rejection (Psychology),P,35889,,12059,"Rejection, Psychology",Rejection (Psychology),T,35889,,0
+,Y,2019-12-03,11209,Power (Psychology),Power (Psychology),P,33018,,11209,"Power, Psychological",Power (Psychology),T,33018,,0
+,Y,2019-12-03,4286,Dolichol,Dolichol,P,13036,,4286,Dolichols,Dolichol,T,13036,,0
+,Y,2019-12-03,77564,Focused Assessment with Sonography of Trauma,Focused Assessment with Sonography of Trauma,P,940288,,77564,Focused Assessment with Sonography for Trauma,Focused Assessment with Sonography of Trauma,T,940288,,0
+,Y,2019-12-03,20177,"Hypersomnolence, Idiopathic","Hypersomnolence, Idiopathic",P,358334,,20177,Idiopathic Hypersomnia,"Hypersomnolence, Idiopathic",T,358334,,0
+,Y,2019-12-03,5793,Generalization (Psychology),Generalization (Psychology),P,17461,,5793,"Generalization, Psychological",Generalization (Psychology),T,17461,,0
+,Y,2019-12-03,7721,Knowledge of Results (Psychology),Knowledge of Results (Psychology),P,23161,,7721,"Knowledge of Results, Psychological",Knowledge of Results (Psychology),T,23161,,0
+,Y,2019-12-03,14473,Unconscious (Psychology),Unconscious (Psychology),P,42340,,14473,"Unconscious, Psychology",Unconscious (Psychology),T,42340,,0
+,Y,2019-12-03,18537,Mercury (Planet),Mercury (Planet),P,55184,,18537,"Mercury, Planet",Mercury (Planet),T,55184,,0
+,Y,2019-12-03,18534,Earth (Planet),Earth (Planet),P,55179,,18534,"Earth, Planet",Earth (Planet),T,55179,,0
+,Y,2019-12-03,45784,"Diterpenes, Abietane","Diterpenes, Abietane",P,540552,,45784,Abietanes,"Diterpenes, Abietane",T,540552,,0
+,Y,2019-12-03,7837,Latency Period (Psychology),Latency Period (Psychology),P,23414,,7837,"Latency Period, Psychological",Latency Period (Psychology),T,23414,,0
+,Y,2019-12-03,5120,Extraversion (Psychology),Extraversion (Psychology),P,15672,,5120,"Extraversion, Psychological",Extraversion (Psychology),T,15672,,0
+,Y,2019-12-03,6234,Handling (Psychology),Handling (Psychology),P,18907,,6234,"Handling, Psychological",Handling (Psychology),T,18907,,0
+,Y,2019-12-03,11214,Practice (Psychology),Practice (Psychology),P,33035,,11214,"Practice, Psychological",Practice (Psychology),T,33035,,0
+,Y,2019-12-03,12054,Reinforcement (Psychology),Reinforcement (Psychology),P,35881,,12054,"Reinforcement, Psychology",Reinforcement (Psychology),T,35881,,0
+,Y,2019-12-03,19018,Imagery (Psychotherapy),Imagery (Psychotherapy),P,56754,,19018,"Imagery, Psychotherapy",Imagery (Psychotherapy),T,56754,,0
+,Y,2019-12-03,8282,Mainstreaming (Education),Mainstreaming (Education),P,24705,,8282,"Mainstreaming, Education",Mainstreaming (Education),T,24705,,0
+,Y,2019-12-03,12043,Regression (Psychology),Regression (Psychology),P,35849,,12043,"Regression, Psychology",Regression (Psychology),T,35849,,0
+,Y,2019-12-03,7739,L Cells (Cell Line),L Cells (Cell Line),P,23191,,7739,L Cells,L Cells (Cell Line),T,23191,,0
+,Y,2019-12-03,14163,Transfer (Psychology),Transfer (Psychology),P,41489,,14163,"Transfer, Psychology",Transfer (Psychology),T,41489,,0
+,Y,2019-12-03,14167,Transference (Psychology),Transference (Psychology),P,41498,,14167,"Transference, Psychology",Transference (Psychology),T,41498,,0
+,Y,2019-12-03,13014,SOS Response (Genetics),SOS Response (Genetics),P,38364,,13014,"SOS Response, Genetics",SOS Response (Genetics),T,38364,,0
+,Y,2019-12-03,63306,Mitochondrial Degradation,Mitochondrial Degradation,P,820668,,63306,Mitophagy,Mitochondrial Degradation,T,820668,,0
+,Y,2019-12-03,12153,Retention (Psychology),Retention (Psychology),P,36186,,12153,"Retention, Psychology",Retention (Psychology),T,36186,,0
+,Y,2019-12-03,12718,Set (Psychology),Set (Psychology),P,37587,,12718,"Set, Psychology",Set (Psychology),T,37587,,0
+,Y,2019-12-03,7062,Identification (Psychology),Identification (Psychology),P,21126,,7062,"Identification, Psychological",Identification (Psychology),T,21126,,0
+,Y,2019-12-03,7173,Imprinting (Psychology),Imprinting (Psychology),P,21513,,7173,"Imprinting, Psychological",Imprinting (Psychology),T,21513,,0
+,Y,2019-12-03,7266,Inhibition (Psychology),Inhibition (Psychology),P,21784,,7266,"Inhibition, Psychological",Inhibition (Psychology),T,21784,,0
+,Y,2019-12-03,7439,Introversion (Psychology),Introversion (Psychology),P,22347,,7439,"Introversion, Psychological",Introversion (Psychology),T,22347,,0
+,Y,2019-12-03,21641,Recognition (Psychology),Recognition (Psychology),P,25502,,21641,"Recognition, Psychology",Recognition (Psychology),T,25502,,0
+,Y,2019-12-03,13541,Swaziland,Swaziland,P,39849,,13541,Eswatini,Swaziland,T,39849,,0
+,Y,2019-12-03,16571,Neural Networks (Computer),Neural Networks (Computer),P,49575,,16571,"Neural Networks, Computer",Neural Networks (Computer),T,49575,,0
+,Y,2019-12-03,329,Advertising as Topic,Advertising as Topic,P,700456,,329,Advertising,Advertising as Topic,T,700456,,0
+,Y,2019-12-03,6021,Glycophorin,Glycophorin,P,18305,,6021,Glycophorins,Glycophorin,T,18305,,0
+,Y,2019-12-03,43,Abstracting and Indexing as Topic,Abstracting and Indexing as Topic,P,700404,,43,Abstracting and Indexing,Abstracting and Indexing as Topic,T,700404,,0
+,Y,2019-12-03,5085,Exhibits as Topic,Exhibits as Topic,P,700662,,5085,Exhibitions as Topic,Exhibits as Topic,T,700662,,0
+,Y,2019-12-03,74421,Fermented Foods,Fermented Foods,P,915844,,74421,Fermented Foods and Beverages,Fermented Foods,T,915844,,0
+,Y,2019-12-03,2522,Cercopithecus aethiops,Chlorocebus aethiops,T,871596,,2522,Chlorocebus aethiops,Chlorocebus aethiops,P,871596,,0
+,Y,2019-12-03,78646,Diary as Topic,Diaries as Topic,T,943123,,78646,Diaries as Topic,Diaries as Topic,P,943123,,0
+,Y,2019-12-03,9314,National Institute for Occupational Safety and Health (U.S.),National Institute for Occupational Safety and Health (U.S.),P,27781,,9314,"National Institute for Occupational Safety and Health, U.S.",National Institute for Occupational Safety and Health (U.S.),T,27781,,0
+,Y,2019-12-03,72644,Study Guide as Topic,Study Guide as Topic,P,900817,,72644,Study Guides as Topic,Study Guide as Topic,T,900817,,0
+,Y,2019-12-03,9308,National Center for Health Care Technology (U.S.),National Center for Health Care Technology (U.S.),P,27762,,9308,"National Center for Health Care Technology, U.S.",National Center for Health Care Technology (U.S.),T,27762,,0
+,Y,2019-12-03,15969,"National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division","National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division",P,903515,,15969,"National Academies of Science, Engineering, and Medicine, U.S., Health and Medicine Division","National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division",T,903515,,0
+,Y,2019-12-03,9309,National Center for Health Statistics (U.S.),National Center for Health Statistics (U.S.),P,27764,,9309,"National Center for Health Statistics, U.S.",National Center for Health Statistics (U.S.),T,27764,,0
+,Y,2019-12-03,9307,National Academy of Sciences (U.S.),National Academy of Sciences (U.S.),P,27755,,9307,"National Academy of Sciences, U.S.",National Academy of Sciences (U.S.),T,27755,,0
+,Y,2019-12-03,72001,Healthy Diet,Healthy Diet,P,897850,,72001,"Diet, Healthy",Healthy Diet,T,897850,,0
+,Y,2019-12-03,9312,National Health Planning Information Center (U.S.),National Health Planning Information Center (U.S.),P,27770,,9312,"National Health Planning Information Center, U.S.",National Health Planning Information Center (U.S.),T,27770,,0
+,Y,2019-12-03,10043,Outcome and Process Assessment (Health Care),Outcome and Process Assessment (Health Care),P,29721,,10043,"Outcome and Process Assessment, Health Care",Outcome and Process Assessment (Health Care),T,29721,,0
+,Y,2019-12-03,13287,Street Drugs,Street Drugs,P,39029,,13287,Illicit Drugs,Street Drugs,T,39029,,0
+,Y,2019-12-03,17924,Nucleopolyhedrovirus,Nucleopolyhedrovirus,P,53575,,17924,Nucleopolyhedroviruses,Nucleopolyhedrovirus,T,53575,,0
+,Y,2019-12-03,1680,Biography as Topic,Biography as Topic,P,700493,,1680,Biographies as Topic,Biography as Topic,T,700493,,0
+,Y,2019-12-03,1325,Autobiography as Topic,Autobiography as Topic,P,770275,,1325,Autobiographies as Topic,Autobiography as Topic,T,770275,,0
+,Y,2019-12-03,1634,Bibliography as Topic,Bibliography as Topic,P,700489,,1634,Bibliographies as Topic,Bibliography as Topic,T,700489,,0
+,Y,2019-12-03,17063,Outcome Assessment (Health Care),Outcome Assessment (Health Care),P,50955,,17063,"Outcome Assessment, Health Care",Outcome Assessment (Health Care),T,50955,,0
+,Y,2019-12-03,11380,Programmed Instruction as Topic,Programmed Instruction as Topic,P,700793,,11380,Programmed Instructions as Topic,Programmed Instruction as Topic,T,700793,,0
+,Y,2019-12-03,5329,Fetishism (Psychiatric),Fetishism (Psychiatric),P,16271,,5329,"Fetishism, Psychiatric",Fetishism (Psychiatric),T,16271,,0
+,Y,2019-12-03,18479,Early Intervention (Education),Early Intervention (Education),P,55042,,18479,"Early Intervention, Educational",Early Intervention (Education),T,55042,,0
+,R,2019-12-03,78622,Nutrients,0,,,,78622,Nutrients,,,,,
+,R,2019-12-03,43586,Methylmalonyl-CoA Decarboxylase,EC 4.1.1.41,,,,43586,Methylmalonyl-CoA Decarboxylase,EC 7.2.4.3,,,,
+,R,2019-12-03,63210,N-Terminal Acetyltransferase B,EC 2.3.1.88,,,,63210,N-Terminal Acetyltransferase B,EC 2.3.1.255,,,,
+,R,2019-12-03,14450,Electron Transport Complex III,EC 1.10.2.2,,,,14450,Electron Transport Complex III,EC 7.1.1.8,,,,
+,R,2019-12-03,63211,N-Terminal Acetyltransferase C,EC 2.3.1.88,,,,63211,N-Terminal Acetyltransferase C,EC 2.3.1.256,,,,
+,R,2019-12-03,63212,N-Terminal Acetyltransferase D,EC 2.3.1.88,,,,63212,N-Terminal Acetyltransferase D,EC 2.3.1.257,,,,
+,R,2019-12-03,63214,N-Terminal Acetyltransferase F,EC 2.3.1.88,,,,63214,N-Terminal Acetyltransferase F,EC 2.3.1.259,,,,
+,R,2019-12-03,5722,gamma-Glutamylcyclotransferase,EC 2.3.2.4,,,,5722,gamma-Glutamylcyclotransferase,EC 4.3.2.9,,,,
+,R,2019-12-03,72478,Cytochrome P450 Family 17,EC 4.1.2.30,,,,72478,Cytochrome P450 Family 17,EC 1.14.14.32,,,,
+,R,2019-12-03,74201,Katanin,EC 3.6.4.3,,,,74201,Katanin,EC 5.6.1.1,,,,
+,R,2019-12-03,15090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,EC 1.14.13.13,,,,15090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,EC 1.14.15.18,,,,
+,R,2019-12-03,50547,Plastoquinol-Plastocyanin Reductase,EC 1.10.9.1,,,,50547,Plastoquinol-Plastocyanin Reductase,EC 7.1.1.6,,,,
+,R,2019-12-03,50564,Trans-Cinnamate 4-Monooxygenase,EC 1.14.13.11,,,,50564,Trans-Cinnamate 4-Monooxygenase,EC 1.14.14.91,,,,
+,R,2019-12-03,50565,Benzoate 4-Monooxygenase,EC 1.14.13.12,,,,50565,Benzoate 4-Monooxygenase,EC 1.14.14.92,,,,
+,R,2019-12-03,72505,Cytochrome P450 Family 51,EC 1.14.13.70,,,,72505,Cytochrome P450 Family 51,EC 1.14.14.154,,,,
+,R,2019-12-03,58886,Sterol 14-Demethylase,EC 1.14.13.70,,,,58886,Sterol 14-Demethylase,EC 1.14.14.154,,,,
+,R,2019-12-03,5560,Formate Dehydrogenases,EC 1.2.1.2,,,,5560,Formate Dehydrogenases,EC 1.17.1.9,,,,
+,R,2019-12-03,42967,Electron Transport Complex I,EC 1.6.5.3,,,,42967,Electron Transport Complex I,EC 7.1.1.2,,,,
+,R,2019-12-03,63209,N-Terminal Acetyltransferase A,EC 2.3.1.88,,,,63209,N-Terminal Acetyltransferase A,EC 2.3.1.254,,,,
+,R,2019-12-03,63213,N-Terminal Acetyltransferase E,EC 2.3.1.88,,,,63213,N-Terminal Acetyltransferase E,EC 2.3.1.258,,,,
+,R,2019-12-03,73840,Copper-transporting ATPases,EC 3.6.3.54,,,,73840,Copper-Transporting ATPases,EC 7.2.2.8,,,,
+,R,2019-12-03,252,Calcium-Transporting ATPases,EC 3.6.3.8,,,,252,Calcium-Transporting ATPases,EC 7.2.2.10,,,,
+,R,2019-12-03,254,Sodium-Potassium-Exchanging ATPase,EC 3.6.3.9,,,,254,Sodium-Potassium-Exchanging ATPase,EC 7.2.2.13,,,,
+,R,2019-12-03,487,Allethrin,0X03II877M,,,,487,Allethrins,0,,,,
+,R,2019-12-03,4286,Dolichol,2067-66-5,,,,4286,Dolichols,0,,,,
+,W,2019-12-03,73840,Copper-transporting ATPases,Copper-transporting ATPases,P,912178,,73840,Copper-Transporting ATPases,Copper-Transporting ATPases,P,949196,,
+,W,2019-12-03,76242,"MTOR Associated Protein, LST8 Homolog","MTOR Associated Protein, LST8 Homolog",P,925750,,76242,"mTOR Associated Protein, LST8 Homolog","mTOR Associated Protein, LST8 Homolog",P,946337,,
+,W,2019-12-03,1240,Aspirations (Psychology),Aspirations (Psychology),P,3710,,1240,"Aspirations, Psychological","Aspirations, Psychological",P,947270,,
+,W,2019-12-03,2391,Catchment Area (Health),Catchment Area (Health),P,6921,,2391,"Catchment Area, Health","Catchment Area, Health",P,946269,,
+,W,2019-12-03,2487,Centers for Disease Control and Prevention (U.S.),Centers for Disease Control and Prevention (U.S.),P,7258,,2487,"Centers for Disease Control and Prevention, U.S.","Centers for Disease Control and Prevention, U.S.",P,946270,,
+,W,2019-12-03,3213,Conditioning (Psychology),Conditioning (Psychology),P,9375,,3213,"Conditioning, Psychological","Conditioning, Psychological",P,947278,,
+,W,2019-12-03,3220,Conflict (Psychology),Conflict (Psychology),P,9398,,3220,"Conflict, Psychological","Conflict, Psychological",P,947279,,
+,W,2019-12-03,3379,Countertransference (Psychology),Countertransference (Psychology),P,9850,,3379,Countertransference,Countertransference,P,9849,,
+,W,2019-12-03,3423,Critical Period (Psychology),Critical Period (Psychology),P,9954,,3423,"Critical Period, Psychological","Critical Period, Psychological",P,947303,,
+,W,2019-12-03,3717,Denial (Psychology),Denial (Psychology),P,10889,,3717,"Denial, Psychological","Denial, Psychological",P,947286,,
+,W,2019-12-03,3858,Dependency (Psychology),Dependency (Psychology),P,11475,,3858,"Dependency, Psychological","Dependency, Psychological",P,947287,,
+,W,2019-12-03,4192,Discrimination (Psychology),Discrimination (Psychology),P,12738,,4192,"Discrimination, Psychological","Discrimination, Psychological",P,947288,,
+,W,2019-12-03,4208,Displacement (Psychology),Displacement (Psychology),P,12781,,4208,"Displacement, Psychological","Displacement, Psychological",P,947289,,
+,W,2019-12-03,7859,Learning Disorders,Learning Disorders,P,23448,,7859,Learning Disabilities,Learning Disabilities,P,372712,,
+,Y,2019-12-03,9724,Nurseries,Nurseries,P,28882,,9724,"Nurseries, Infant",Nurseries,T,28882,,0
+,W,2019-12-03,15986,Confounding Factors (Epidemiology),Confounding Factors (Epidemiology),P,47452,,15986,"Confounding Factors, Epidemiologic","Confounding Factors, Epidemiologic",P,947283,,
+,W,2019-12-03,17004,Codependency (Psychology),Codependency (Psychology),P,50786,,17004,"Codependency, Psychological","Codependency, Psychological",P,947277,,
+,W,2019-12-03,18843,Macedonia (Republic),Macedonia (Republic),P,56177,,18843,Republic of North Macedonia,Republic of North Macedonia,P,952282,,
+,W,2019-12-03,14487,Centers for Medicare and Medicaid Services (U.S.),Centers for Medicare and Medicaid Services (U.S.),P,451492,,14487,"Centers for Medicare and Medicaid Services, U.S.","Centers for Medicare and Medicaid Services, U.S.",P,946272,,
+,W,2019-12-03,33364,Decapoda (Crustacea),Decapoda (Crustacea),P,466977,,33364,Decapoda,Decapoda,P,947284,,
+,W,2019-12-03,66240,Anterior Cerebellar Commissure,Anterior Cerebellar Commissure,P,858126,,66240,"Anterior Commissure, Brain","Anterior Commissure, Brain",P,858204,,
+,Y,2019-12-03,1892,Bornanes,Bornanes,P,5399,,1892,Camphanes,Bornanes,T,5399,,0
+,Y,2019-12-03,4490,Xenarthra,Xenarthra,P,13699,,4490,Cingulata,Xenarthra,T,13699,,0
+,Y,2019-12-03,63369,Literature Based Discovery,Literature Based Discovery,P,821268,,63369,Knowledge Discovery,Literature Based Discovery,T,821268,,0
+,Y,2019-12-03,17064,Process Assessment (Health Care),Process Assessment (Health Care),P,50961,,17064,"Process Assessment, Health Care",Process Assessment (Health Care),T,50961,,0
+,Y,2019-12-03,6372,Helix (Snails),Helix (Snails),P,19283,,6372,"Helix, Snails",Helix (Snails),T,19283,,0
+,Y,2019-12-03,487,Allethrin,Allethrin,P,1435,,487,Allethrins,Allethrin,T,1435,,0
+,Y,2019-12-03,55873,Extreme Cold,Extreme Cold,P,719735,,55873,Extreme Cold Weather,Extreme Cold,T,719735,,0
+,Y,2019-12-03,15713,Duplicate Publication as Topic,Duplicate Publication as Topic,P,700649,,15713,Duplicate Publications as Topic,Duplicate Publication as Topic,T,700649,,0
+,Y,2019-12-03,7983,Lewis Blood-Group System,Lewis Blood-Group System,P,23797,,7983,Lewis Blood Group Antigens,Lewis Blood-Group System,T,23797,,0
+,Y,2019-12-03,1936,Moraxella (Branhamella) catarrhalis,Moraxella (Branhamella) catarrhalis,P,5518,,1936,Moraxella catarrhalis,Moraxella (Branhamella) catarrhalis,T,5518,,0
+,Y,2019-12-03,16955,Moraxella (Moraxella) bovis,Moraxella (Moraxella) bovis,P,50711,,16955,Moraxella bovis,Moraxella (Moraxella) bovis,T,50711,,0
+,Y,2019-12-03,12860,Skates (Fish),Skates (Fish),P,37918,,12860,"Skates, Fish",Skates (Fish),T,37918,,0
+,Y,2019-12-03,16626,Shadowing (Histology),Shadowing (Histology),P,49771,,16626,"Shadowing Technique, Histology",Shadowing (Histology),T,49771,,0
+,Y,2019-12-03,7239,Infection,Infection,P,21695,,7239,Infections,Infection,T,21695,,0
+,Y,2019-12-03,12059,Rejection (Psychology),Rejection (Psychology),P,35889,,12059,"Rejection, Psychology",Rejection (Psychology),T,35889,,0
+,Y,2019-12-03,11209,Power (Psychology),Power (Psychology),P,33018,,11209,"Power, Psychological",Power (Psychology),T,33018,,0
+,Y,2019-12-03,4286,Dolichol,Dolichol,P,13036,,4286,Dolichols,Dolichol,T,13036,,0
+,Y,2019-12-03,77564,Focused Assessment with Sonography of Trauma,Focused Assessment with Sonography of Trauma,P,940288,,77564,Focused Assessment with Sonography for Trauma,Focused Assessment with Sonography of Trauma,T,940288,,0
+,Y,2019-12-03,20177,"Hypersomnolence, Idiopathic","Hypersomnolence, Idiopathic",P,358334,,20177,Idiopathic Hypersomnia,"Hypersomnolence, Idiopathic",T,358334,,0
+,Y,2019-12-03,5793,Generalization (Psychology),Generalization (Psychology),P,17461,,5793,"Generalization, Psychological",Generalization (Psychology),T,17461,,0
+,Y,2019-12-03,7721,Knowledge of Results (Psychology),Knowledge of Results (Psychology),P,23161,,7721,"Knowledge of Results, Psychological",Knowledge of Results (Psychology),T,23161,,0
+,Y,2019-12-03,14473,Unconscious (Psychology),Unconscious (Psychology),P,42340,,14473,"Unconscious, Psychology",Unconscious (Psychology),T,42340,,0
+,Y,2019-12-03,18537,Mercury (Planet),Mercury (Planet),P,55184,,18537,"Mercury, Planet",Mercury (Planet),T,55184,,0
+,Y,2019-12-03,18534,Earth (Planet),Earth (Planet),P,55179,,18534,"Earth, Planet",Earth (Planet),T,55179,,0
+,Y,2019-12-03,45784,"Diterpenes, Abietane","Diterpenes, Abietane",P,540552,,45784,Abietanes,"Diterpenes, Abietane",T,540552,,0
+,Y,2019-12-03,7837,Latency Period (Psychology),Latency Period (Psychology),P,23414,,7837,"Latency Period, Psychological",Latency Period (Psychology),T,23414,,0
+,Y,2019-12-03,5120,Extraversion (Psychology),Extraversion (Psychology),P,15672,,5120,"Extraversion, Psychological",Extraversion (Psychology),T,15672,,0
+,Y,2019-12-03,6234,Handling (Psychology),Handling (Psychology),P,18907,,6234,"Handling, Psychological",Handling (Psychology),T,18907,,0
+,Y,2019-12-03,11214,Practice (Psychology),Practice (Psychology),P,33035,,11214,"Practice, Psychological",Practice (Psychology),T,33035,,0
+,Y,2019-12-03,12054,Reinforcement (Psychology),Reinforcement (Psychology),P,35881,,12054,"Reinforcement, Psychology",Reinforcement (Psychology),T,35881,,0
+,Y,2019-12-03,19018,Imagery (Psychotherapy),Imagery (Psychotherapy),P,56754,,19018,"Imagery, Psychotherapy",Imagery (Psychotherapy),T,56754,,0
+,Y,2019-12-03,8282,Mainstreaming (Education),Mainstreaming (Education),P,24705,,8282,"Mainstreaming, Education",Mainstreaming (Education),T,24705,,0
+,Y,2019-12-03,12043,Regression (Psychology),Regression (Psychology),P,35849,,12043,"Regression, Psychology",Regression (Psychology),T,35849,,0
+,Y,2019-12-03,7739,L Cells (Cell Line),L Cells (Cell Line),P,23191,,7739,L Cells,L Cells (Cell Line),T,23191,,0
+,Y,2019-12-03,14163,Transfer (Psychology),Transfer (Psychology),P,41489,,14163,"Transfer, Psychology",Transfer (Psychology),T,41489,,0
+,Y,2019-12-03,14167,Transference (Psychology),Transference (Psychology),P,41498,,14167,"Transference, Psychology",Transference (Psychology),T,41498,,0
+,Y,2019-12-03,13014,SOS Response (Genetics),SOS Response (Genetics),P,38364,,13014,"SOS Response, Genetics",SOS Response (Genetics),T,38364,,0
+,Y,2019-12-03,63306,Mitochondrial Degradation,Mitochondrial Degradation,P,820668,,63306,Mitophagy,Mitochondrial Degradation,T,820668,,0
+,Y,2019-12-03,12153,Retention (Psychology),Retention (Psychology),P,36186,,12153,"Retention, Psychology",Retention (Psychology),T,36186,,0
+,Y,2019-12-03,12718,Set (Psychology),Set (Psychology),P,37587,,12718,"Set, Psychology",Set (Psychology),T,37587,,0
+,Y,2019-12-03,7062,Identification (Psychology),Identification (Psychology),P,21126,,7062,"Identification, Psychological",Identification (Psychology),T,21126,,0
+,Y,2019-12-03,7173,Imprinting (Psychology),Imprinting (Psychology),P,21513,,7173,"Imprinting, Psychological",Imprinting (Psychology),T,21513,,0
+,Y,2019-12-03,7266,Inhibition (Psychology),Inhibition (Psychology),P,21784,,7266,"Inhibition, Psychological",Inhibition (Psychology),T,21784,,0
+,Y,2019-12-03,7439,Introversion (Psychology),Introversion (Psychology),P,22347,,7439,"Introversion, Psychological",Introversion (Psychology),T,22347,,0
+,Y,2019-12-03,21641,Recognition (Psychology),Recognition (Psychology),P,25502,,21641,"Recognition, Psychology",Recognition (Psychology),T,25502,,0
+,Y,2019-12-03,13541,Swaziland,Swaziland,P,39849,,13541,Eswatini,Swaziland,T,39849,,0
+,Y,2019-12-03,16571,Neural Networks (Computer),Neural Networks (Computer),P,49575,,16571,"Neural Networks, Computer",Neural Networks (Computer),T,49575,,0
+,Y,2019-12-03,329,Advertising as Topic,Advertising as Topic,P,700456,,329,Advertising,Advertising as Topic,T,700456,,0
+,Y,2019-12-03,6021,Glycophorin,Glycophorin,P,18305,,6021,Glycophorins,Glycophorin,T,18305,,0
+,Y,2019-12-03,43,Abstracting and Indexing as Topic,Abstracting and Indexing as Topic,P,700404,,43,Abstracting and Indexing,Abstracting and Indexing as Topic,T,700404,,0
+,Y,2019-12-03,5085,Exhibits as Topic,Exhibits as Topic,P,700662,,5085,Exhibitions as Topic,Exhibits as Topic,T,700662,,0
+,Y,2019-12-03,74421,Fermented Foods,Fermented Foods,P,915844,,74421,Fermented Foods and Beverages,Fermented Foods,T,915844,,0
+,Y,2019-12-03,2522,Cercopithecus aethiops,Chlorocebus aethiops,T,871596,,2522,Chlorocebus aethiops,Chlorocebus aethiops,P,871596,,0
+,Y,2019-12-03,78646,Diary as Topic,Diaries as Topic,T,943123,,78646,Diaries as Topic,Diaries as Topic,P,943123,,0
+,Y,2019-12-03,9314,National Institute for Occupational Safety and Health (U.S.),National Institute for Occupational Safety and Health (U.S.),P,27781,,9314,"National Institute for Occupational Safety and Health, U.S.",National Institute for Occupational Safety and Health (U.S.),T,27781,,0
+,Y,2019-12-03,72644,Study Guide as Topic,Study Guide as Topic,P,900817,,72644,Study Guides as Topic,Study Guide as Topic,T,900817,,0
+,Y,2019-12-03,9308,National Center for Health Care Technology (U.S.),National Center for Health Care Technology (U.S.),P,27762,,9308,"National Center for Health Care Technology, U.S.",National Center for Health Care Technology (U.S.),T,27762,,0
+,Y,2019-12-03,15969,"National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division","National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division",P,903515,,15969,"National Academies of Science, Engineering, and Medicine, U.S., Health and Medicine Division","National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division",T,903515,,0
+,Y,2019-12-03,9309,National Center for Health Statistics (U.S.),National Center for Health Statistics (U.S.),P,27764,,9309,"National Center for Health Statistics, U.S.",National Center for Health Statistics (U.S.),T,27764,,0
+,Y,2019-12-03,9307,National Academy of Sciences (U.S.),National Academy of Sciences (U.S.),P,27755,,9307,"National Academy of Sciences, U.S.",National Academy of Sciences (U.S.),T,27755,,0

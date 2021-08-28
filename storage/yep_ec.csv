@@ -1,0 +1,808 @@
+A,2019-12-03,,,,,,,,,,,,,,,,10450,Endopeptidases,30876,37,antagonists & inhibitors,60595,11480,Protease Inhibitors,33911,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10455,Peptides,30900,96,biosynthesis,60639,10452,Peptide Biosynthesis,550427,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10727,Phosphoric Diester Hydrolases,31695,37,antagonists & inhibitors,60595,10726,Phosphodiesterase Inhibitors,31692,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10755,Organophosphates,592889,506,poisoning,61130,62025,Organophosphate Poisoning,796846,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10879,Piperazines,32077,31,analogs & derivatives,60581,77489,Piperazine,939976,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10920,Placenta,32166,254,growth & development,60828,10929,Placentation,32191,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,166,cytology,60717,59828,Plant Cells,780786,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,254,growth & development,60828,63245,Plant Development,820277,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,502,physiology,61125,18521,Plant Physiological Phenomena,721555,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11065,Poly(ADP-ribose) Polymerases,475372,37,antagonists & inhibitors,60595,67856,Poly(ADP-ribose) Polymerase Inhibitors,873036,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11095,Polyethylenes,32643,31,analogs & derivatives,60581,20959,Polyethylene,32644,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11163,Hydroxymethylbilane Synthase,32881,172,deficiency,60727,17118,"Porphyria, Acute Intermittent",51121,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11188,Potassium,32957,172,deficiency,60727,11191,Potassium Deficiency,32962,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11449,Prostaglandin Endoperoxides,33798,31,analogs & derivatives,60581,11450,"Prostaglandin Endoperoxides, Synthetic",33801,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11451,Prostaglandin-Endoperoxide Synthases,641056,37,antagonists & inhibitors,60595,16861,Cyclooxygenase Inhibitors,50484,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11453,Prostaglandins,33825,31,analogs & derivatives,60581,11465,"Prostaglandins, Synthetic",33872,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11453,Prostaglandins,33825,37,antagonists & inhibitors,60595,11448,Prostaglandin Antagonists,33794,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11454,Prostaglandins A,33827,31,analogs & derivatives,60581,11455,"Prostaglandins A, Synthetic",33831,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11458,Prostaglandins E,33838,31,analogs & derivatives,60581,11459,"Prostaglandins E, Synthetic",33842,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11460,Prostaglandins F,33845,31,analogs & derivatives,60581,11461,"Prostaglandins F, Synthetic",33849,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11486,Protein C,33926,172,deficiency,60727,20151,Protein C Deficiency,59944,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11494,Protein Kinases,33952,37,antagonists & inhibitors,60595,47428,Protein Kinase Inhibitors,563761,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,96,biosynthesis,60639,14176,Protein Biosynthesis,549975,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,97,blood,60642,1798,Blood Proteins,5218,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,134,cerebrospinal fluid,60681,2556,Cerebrospinal Fluid Proteins,7455,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,172,deficiency,60727,11488,Protein Deficiency,33930,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,652,urine,61301,11507,Proteinuria,34004,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11516,Prothrombin,34022,172,deficiency,60727,7020,Hypoprothrombinemias,21034,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11618,Psychotic Disorders,34300,139,chemically induced,60685,11605,"Psychoses, Substance-Induced",34265,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11768,Pyruvate Dehydrogenase Complex,34784,172,deficiency,60727,15325,Pyruvate Dehydrogenase Complex Deficiency Disease,364789,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11941,"Receptors, Adrenergic",35281,37,antagonists & inhibitors,60595,18674,Adrenergic Antagonists,55589,,,,EP_HM
+D,2019-12-03,8340,Mandibular Nerve,24845,293,injuries,60876,,61221,Trigeminal Nerve Injuries,788951,,,,,,,,,,,,,,,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,8340,Mandibular Nerve,24845,293,injuries,60876,80902,Mandibular Nerve Injuries,955472,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,11846,Radio Waves,34964,627,therapeutic use,61267,78702,Radiofrequency Therapy,943258,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,19602,Food and Beverages,58323,331,legislation & jurisprudence,60922,7881,"Legislation, Food",23507,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,48069,Tumor Necrosis Factors,572115,37,antagonists & inhibitors,60595,79424,Tumor Necrosis Factor Inhibitors,946058,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58539,Phosphatidylinositol 3-Kinase,59148,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58541,Class II Phosphatidylinositol 3-Kinases,765295,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58543,Class Ia Phosphatidylinositol 3-Kinase,764938,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58544,Class Ib Phosphatidylinositol 3-Kinase,764941,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58571,Vacuolar Sorting Protein VPS15,765233,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+A,2019-12-03,,,,,,,,,,,,,,,,4264,"DNA Topoisomerases, Type I",439293,37,antagonists & inhibitors,60595,59004,Topoisomerase I Inhibitors,769956,,,,EP_SCR
+A,2019-12-03,,,,,,,,,,,,,,,,13,Congenital Abnormalities,29,139,chemically induced,60685,14,"Abnormalities, Drug-Induced",34,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,110,Acetylcholinesterase,315,37,antagonists & inhibitors,60595,2800,Cholinesterase Inhibitors,8158,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,243,Adenosine Deaminase,728,37,antagonists & inhibitors,60595,58892,Adenosine Deaminase Inhibitors,768898,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,262,Adenylyl Cyclases,873567,37,antagonists & inhibitors,60595,67956,Adenylyl Cyclase Inhibitors,873565,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,308,Adrenocortical Hyperfunction,569771,151,congenital,60708,312,"Adrenal Hyperplasia, Congenital",1013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,418,Albumins,1260,97,blood,60642,12709,Serum Albumin,37571,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,418,Albumins,1260,652,urine,61301,419,Albuminuria,1261,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,450,Aldosterone,1358,37,antagonists & inhibitors,60595,451,Mineralocorticoid Receptor Antagonists,816176,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,515,alpha 1-Antitrypsin,1523,172,deficiency,60727,19896,alpha 1-Antitrypsin Deficiency,59262,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,519,alpha-Galactosidase,1552,172,deficiency,60727,795,Fabry Disease,2358,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,520,alpha-Glucosidases,1555,37,antagonists & inhibitors,60595,65089,Glycoside Hydrolase Inhibitors,860495,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,743,"Anemia, Hemolytic",2218,151,congenital,60708,745,"Anemia, Hemolytic, Congenital",2228,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,842,Ankle,2465,293,injuries,60876,16512,Ankle Injuries,49385,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,906,Antibodies,2667,96,biosynthesis,60639,917,Antibody Formation,2705,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,906,Antibodies,2667,172,deficiency,60727,7153,Immunologic Deficiency Syndromes,21450,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,990,Antithrombin III,3049,172,deficiency,60727,20152,Antithrombin III Deficiency,59946,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1092,Arachidonate 12-Lipoxygenase,3314,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1093,Arachidonate 15-Lipoxygenase,3317,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1094,Arachidonate 5-Lipoxygenase,3320,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1119,Arginase,3378,172,deficiency,60727,20162,Hyperargininemia,358331,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1123,Argininosuccinate Lyase,3396,172,deficiency,60727,56807,Argininosuccinic Aciduria,734488,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1132,Arm,3411,293,injuries,60876,1134,Arm Injuries,3417,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1141,Aromatase,3429,37,antagonists & inhibitors,60595,47072,Aromatase Inhibitors,559263,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1142,Aromatic-L-Amino-Acid Decarboxylases,3442,37,antagonists & inhibitors,60595,65105,Aromatic Amino Acid Decarboxylase Inhibitors,848598,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1151,Arsenic,3465,506,poisoning,61130,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1152,Arsenicals,3466,506,poisoning,61130,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1152,Arsenicals,3466,633,toxicity,61274,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1205,Ascorbic Acid,3591,172,deficiency,60727,1206,Ascorbic Acid Deficiency,3600,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1285,Atropine,3822,31,analogs & derivatives,60581,1286,Atropine Derivatives,3827,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1419,Bacteria,4133,502,physiology,61125,18407,Bacterial Physiological Phenomena,721700,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1554,Benzene,4500,31,analogs & derivatives,60581,1555,Benzene Derivatives,4504,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1608,Beryllium,4628,506,poisoning,61130,1607,Berylliosis,4626,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1618,beta-Lactamases,4667,37,antagonists & inhibitors,60595,65093,beta-Lactamase Inhibitors,849037,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1779,Blood Coagulation Factors,5171,172,deficiency,60727,20147,Coagulation Protein Disorders,59940,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1792,Blood Platelets,5210,637,transplantation,61279,17713,Platelet Transfusion,52984,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1842,Bone and Bones,5305,254,growth & development,60828,1846,Bone Development,5324,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1842,Bone and Bones,5305,637,transplantation,61279,16025,Bone Transplantation,47584,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1853,Bone Marrow,5335,166,cytology,60717,1854,Bone Marrow Cells,5339,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1853,Bone Marrow,5335,637,transplantation,61279,16026,Bone Marrow Transplantation,47587,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1921,Brain,5476,293,injuries,60876,1930,Brain Injuries,5492,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1921,Brain,5476,637,transplantation,61279,16380,Brain Tissue Transplantation,48958,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1921,Brain,5476,737,chemistry,61380,1923,Brain Chemistry,5481,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2091,Butyrylcholinesterase,5938,37,antagonists & inhibitors,60595,2800,Cholinesterase Inhibitors,8158,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2104,Cadmium,5971,506,poisoning,61130,2105,Cadmium Poisoning,5973,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2129,Calcium Oxalate,6067,31,analogs & derivatives,60581,10070,Oxalates,29783,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2241,Carbohydrates,6433,378,metabolism,60983,50260,Carbohydrate Metabolism,612045,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2251,Carbon Tetrachloride,6453,506,poisoning,61130,2252,Carbon Tetrachloride Poisoning,6456,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53402,PHEX Phosphate Regulating Neutral Endopeptidase,662273,172,deficiency,60727,53098,Familial Hypophosphatemic Rickets,829636,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53453,Caspase 9,294027,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53454,Caspase 12,405609,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53455,Caspase 10,326691,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53471,"Caspases, Initiator",658479,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53503,Epithelial Sodium Channels,814338,37,antagonists & inhibitors,60595,62686,Epithelial Sodium Channel Blockers,814206,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53503,Epithelial Sodium Channels,814338,819,agonists,61435,62708,Epithelial Sodium Channel Agonists,814310,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53504,"Matrix Metalloproteinases, Membrane-Associated",664440,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53506,Matrix Metalloproteinase 10,227539,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53507,Matrix Metalloproteinase 11,238622,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53508,Matrix Metalloproteinase 12,457016,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53509,Matrix Metalloproteinase 13,664485,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53511,Matrix Metalloproteinase 14,262708,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53513,Matrix Metalloproteinase 16,664496,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53517,Matrix Metalloproteinase 15,642796,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53519,Matrix Metalloproteinase 20,400013,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53534,Keratin-9,22939,172,deficiency,60727,53546,"Keratoderma, Palmoplantar, Epidermolytic",665342,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53535,Keratin-13,664992,172,deficiency,60727,53529,"Leukokeratosis, Hereditary Mucosal",665096,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53536,Keratin-16,664993,172,deficiency,60727,53549,Pachyonychia Congenita,665385,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53547,Keratin-14,314756,172,deficiency,60727,16110,Epidermolysis Bullosa Simplex,47863,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53550,Keratin-10,665486,172,deficiency,60727,17488,"Hyperkeratosis, Epidermolytic",52479,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53551,Keratin-12,665493,172,deficiency,60727,53559,"Corneal Dystrophy, Juvenile Epithelial of Meesmann",665599,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53553,Keratin-6,665444,172,deficiency,60727,53549,Pachyonychia Congenita,665385,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53555,Keratin-5,665542,172,deficiency,60727,16110,Epidermolysis Bullosa Simplex,47863,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53556,Keratin-1,665582,172,deficiency,60727,17488,"Hyperkeratosis, Epidermolytic",52479,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53558,Keratin-3,665586,172,deficiency,60727,53559,"Corneal Dystrophy, Juvenile Epithelial of Meesmann",665599,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53773,Transforming Growth Factor beta1,410572,172,deficiency,60727,3966,Camurati-Engelmann Syndrome,12013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,54467,Phospholipases A2,689423,37,antagonists & inhibitors,60595,64801,Phospholipase A2 Inhibitors,843209,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,54684,"Cyclic Nucleotide Phosphodiesterases, Type 3",691986,37,antagonists & inhibitors,60595,58987,Phosphodiesterase 3 Inhibitors,769760,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,54703,"Cyclic Nucleotide Phosphodiesterases, Type 4",692120,37,antagonists & inhibitors,60595,58988,Phosphodiesterase 4 Inhibitors,769766,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,54706,"Cyclic Nucleotide Phosphodiesterases, Type 5",692175,37,antagonists & inhibitors,60595,58986,Phosphodiesterase 5 Inhibitors,769756,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,54820,beta-Hexosaminidase alpha Chain,694233,172,deficiency,60727,13661,Tay-Sachs Disease,40131,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,54821,beta-Hexosaminidase beta Chain,694236,172,deficiency,60727,12497,Sandhoff Disease,37091,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,55533,Survival of Motor Neuron 1 Protein,714248,172,deficiency,60727,14897,Spinal Muscular Atrophies of Childhood,365685,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,55573,Acid Ceramidase,7339,172,deficiency,60727,55577,Farber Lipogranulomatosis,714821,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,55758,SOX9 Transcription Factor,717690,172,deficiency,60727,55036,Campomelic Dysplasia,704996,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,57056,Cysteine Proteases,10299,37,antagonists & inhibitors,60595,15853,Cysteine Proteinase Inhibitors,47044,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,57057,Serine Proteases,37538,37,antagonists & inhibitors,60595,15842,Serine Proteinase Inhibitors,46971,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58470,"Receptors, Purinergic P2Y",764005,37,antagonists & inhibitors,60595,58921,Purinergic P2Y Receptor Antagonists,769055,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58470,"Receptors, Purinergic P2Y",764005,819,agonists,61435,58912,Purinergic P2Y Receptor Agonists,769015,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58472,"Receptors, Purinergic P2Y1",764179,37,antagonists & inhibitors,60595,58921,Purinergic P2Y Receptor Antagonists,769055,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58472,"Receptors, Purinergic P2Y1",764179,819,agonists,61435,58912,Purinergic P2Y Receptor Agonists,769015,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58473,"Receptors, Purinergic P2Y2",764187,37,antagonists & inhibitors,60595,58921,Purinergic P2Y Receptor Antagonists,769055,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58473,"Receptors, Purinergic P2Y2",764187,819,agonists,61435,58912,Purinergic P2Y Receptor Agonists,769015,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58476,"Receptors, Purinergic P2X2",764256,37,antagonists & inhibitors,60595,58920,Purinergic P2X Receptor Antagonists,769039,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58476,"Receptors, Purinergic P2X2",764256,819,agonists,61435,58911,Purinergic P2X Receptor Agonists,768999,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58477,"Receptors, Purinergic P2X3",764263,37,antagonists & inhibitors,60595,58920,Purinergic P2X Receptor Antagonists,769039,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58477,"Receptors, Purinergic P2X3",764263,819,agonists,61435,58911,Purinergic P2X Receptor Agonists,768999,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58485,"Receptors, Purinergic P2X5",764403,37,antagonists & inhibitors,60595,58920,Purinergic P2X Receptor Antagonists,769039,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58485,"Receptors, Purinergic P2X5",764403,819,agonists,61435,58911,Purinergic P2X Receptor Agonists,768999,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58486,"Receptors, Purinergic P2X7",764409,37,antagonists & inhibitors,60595,58920,Purinergic P2X Receptor Antagonists,769039,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58486,"Receptors, Purinergic P2X7",764409,819,agonists,61435,58911,Purinergic P2X Receptor Agonists,768999,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58541,Class II Phosphatidylinositol 3-Kinases,765295,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58543,Class Ia Phosphatidylinositol 3-Kinase,764938,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58544,Class Ib Phosphatidylinositol 3-Kinase,764941,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58571,Vacuolar Sorting Protein VPS15,765233,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58848,"Receptors, Purinergic P2X4",768230,37,antagonists & inhibitors,60595,58920,Purinergic P2X Receptor Antagonists,769039,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58848,"Receptors, Purinergic P2X4",768230,819,agonists,61435,58911,Purinergic P2X Receptor Agonists,768999,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58886,Sterol 14-Demethylase,768707,37,antagonists & inhibitors,60595,58888,14-alpha Demethylase Inhibitors,768715,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58925,"Receptors, Purinergic P2Y12",769212,37,antagonists & inhibitors,60595,58921,Purinergic P2Y Receptor Antagonists,769055,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58925,"Receptors, Purinergic P2Y12",769212,819,agonists,61435,58912,Purinergic P2Y Receptor Agonists,769015,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58927,5-Lipoxygenase-Activating Proteins,769225,37,antagonists & inhibitors,60595,58946,5-Lipoxygenase-Activating Protein Inhibitors,769249,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,58945,Lipoxygenases,24129,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,61265,Biphasic Insulins,790148,37,antagonists & inhibitors,60595,7329,Insulin Antagonists,21947,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,61267,Insulin Aspart,789314,37,antagonists & inhibitors,60595,7329,Insulin Antagonists,21947,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,61268,Insulin Lispro,789347,37,antagonists & inhibitors,60595,7329,Insulin Antagonists,21947,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,61389,"Insulin, Regular, Pork",493780,37,antagonists & inhibitors,60595,7329,Insulin Antagonists,21947,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,61405,"Insulin, Lente",21979,37,antagonists & inhibitors,60595,7329,Insulin Antagonists,21947,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,61566,Voltage-Gated Sodium Channels,794010,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,61566,Voltage-Gated Sodium Channels,794010,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62547,Voltage-Gated Sodium Channel beta-1 Subunit,813330,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62547,Voltage-Gated Sodium Channel beta-1 Subunit,813330,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62548,Voltage-Gated Sodium Channel beta-2 Subunit,813331,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4364,Pharmaceutical Preparations,13329,627,therapeutic use,61267,4358,Drug Therapy,13309,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4364,Pharmaceutical Preparations,13329,633,toxicity,61274,64420,Drug-Related Side Effects and Adverse Reactions,837951,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4798,Enzymes,14648,37,antagonists & inhibitors,60595,4791,Enzyme Inhibitors,14636,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4798,Enzymes,14648,627,therapeutic use,61267,57487,Enzyme Therapy,754625,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4848,Epithelium,14791,166,cytology,60717,4847,Epithelial Cells,14790,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4876,Ergot Alkaloids,14904,506,poisoning,61130,4881,Ergotism,14932,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4878,Ergotamine,14923,31,analogs & derivatives,60581,4879,Ergotamines,431097,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4912,Erythrocytes,15009,2,abnormalities,60543,4913,"Erythrocytes, Abnormal",15013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4912,Erythrocytes,15009,637,transplantation,61279,17707,Erythrocyte Transfusion,52963,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4958,Estradiol,15123,37,antagonists & inhibitors,60595,4965,Estrogen Antagonists,15153,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5145,Face,15726,254,growth & development,60828,8445,Maxillofacial Development,25089,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5145,Face,15726,293,injuries,60876,5151,Facial Injuries,15740,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5145,Face,15726,637,transplantation,61279,54445,Facial Transplantation,688327,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5164,Factor IX,15776,172,deficiency,60727,2836,Hemophilia B,8258,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5165,Factor V,15784,172,deficiency,60727,5166,Factor V Deficiency,15789,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5167,Factor VII,15794,172,deficiency,60727,5168,Factor VII Deficiency,15799,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5169,Factor VIII,15802,172,deficiency,60727,6467,Hemophilia A,19518,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5170,Factor X,15822,172,deficiency,60727,5171,Factor X Deficiency,15828,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5174,Factor XII,15845,172,deficiency,60727,5175,Factor XII Deficiency,15849,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5176,Factor XIII,15852,172,deficiency,60727,5177,Factor XIII Deficiency,15860,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5205,Fascia,15969,601,surgery,61234,71938,Fasciotomy,897543,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5294,Ferrochelatase,16182,172,deficiency,60727,46351,"Protoporphyria, Erythropoietic",51125,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5333,Fetus,16282,254,growth & development,60828,47109,Fetal Development,16242,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5333,Fetus,16282,293,injuries,60876,49188,Prenatal Injuries,33301,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5333,Fetus,16282,637,transplantation,61279,16332,Fetal Tissue Transplantation,48738,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5340,Fibrinogen,16300,172,deficiency,60727,347,Afibrinogenemia,1114,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5363,Ficusin,16362,31,analogs & derivatives,60581,11564,Furocoumarins,34137,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5384,Finger Joint,16422,293,injuries,60876,5383,Finger Injuries,16421,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5385,Fingers,16423,293,injuries,60876,5383,Finger Injuries,16421,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5459,Fluorides,16618,506,poisoning,61130,5458,Fluoride Poisoning,16616,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5492,Folic Acid,16712,37,antagonists & inhibitors,60595,5493,Folic Acid Antagonists,16718,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5492,Folic Acid,16712,172,deficiency,60727,5494,Folic Acid Deficiency,16721,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5502,Food,16734,32,analysis,60585,5504,Food Analysis,16737,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5502,Food,16734,331,legislation & jurisprudence,60922,7881,"Legislation, Food",23507,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5502,Food,16734,382,microbiology,60998,5516,Food Microbiology,16766,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5502,Food,16734,469,parasitology,61093,16266,Food Parasitology,48473,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5502,Food,16734,506,poisoning,61130,5517,Foodborne Diseases,749696,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5502,Food,16734,600,supply & distribution,61231,5523,Food Supply,16784,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5530,Foot Deformities,16805,151,congenital,60708,5532,"Foot Deformities, Congenital",16815,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5680,gamma-Aminobutyric Acid,17185,37,antagonists & inhibitors,60595,18756,GABA Antagonists,55856,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5680,gamma-Aminobutyric Acid,17185,819,agonists,61435,18755,GABA Agonists,55851,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5916,Globulins,17908,97,blood,60642,12712,Serum Globulins,37579,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5947,Glucose,18006,97,blood,60642,1786,Blood Glucose,5198,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5947,Glucose,18006,652,urine,61301,6029,Glycosuria,18336,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5952,Glucose-6-Phosphatase,18023,172,deficiency,60727,5953,Glycogen Storage Disease Type I,18031,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5954,Glucosephosphate Dehydrogenase,18037,172,deficiency,60727,5955,Glucosephosphate Dehydrogenase Deficiency,18040,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5956,Glucose-6-Phosphate Isomerase,18044,172,deficiency,60727,746,"Anemia, Hemolytic, Congenital Nonspherocytic",2236,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5971,Glutamates,18091,37,antagonists & inhibitors,60595,18691,Excitatory Amino Acid Antagonists,55662,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,5971,Glutamates,18091,819,agonists,61435,18690,Excitatory Amino Acid Agonists,55656,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6225,Hand,18882,2,abnormalities,60543,6228,"Hand Deformities, Congenital",18890,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6225,Hand,18882,293,injuries,60876,6230,Hand Injuries,18894,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6225,Hand,18882,637,transplantation,61279,63987,Hand Transplantation,833029,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6226,Hand Deformities,18883,151,congenital,60708,6228,"Hand Deformities, Congenital",18890,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6257,Head,18949,293,injuries,60876,6259,Craniocerebral Trauma,365783,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6311,Hearing Disorders,19135,534,rehabilitation,61169,12048,Correction of Hearing Impairment,816103,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6325,Heart Atria,538150,502,physiology,61125,16275,Atrial Function,48510,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6352,Heart Ventricles,538027,502,physiology,61125,16276,Ventricular Function,48511,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6373,Helminthiasis,19284,662,veterinary,61316,6374,"Helminthiasis, Animal",19287,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6454,Hemoglobins,19490,652,urine,61301,6456,Hemoglobinuria,19493,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6493,Heparin,19581,37,antagonists & inhibitors,60595,6494,Heparin Antagonists,19586,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6505,Hepatitis,19616,662,veterinary,61316,6520,"Hepatitis, Animal",19668,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6547,Hernia,19723,601,surgery,61234,59685,Herniorrhaphy,779474,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6548,"Hernia, Diaphragmatic",19726,151,congenital,60708,65630,"Hernias, Diaphragmatic, Congenital",853086,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6597,Fructose-Bisphosphatase,19863,172,deficiency,60727,15319,"Fructose-1,6-Diphosphatase Deficiency",45053,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6615,Hip,19914,293,injuries,60876,25981,Hip Injuries,433512,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6621,Hip Joint,19929,293,injuries,60876,25981,Hip Injuries,433512,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6629,Hirudins,586622,627,therapeutic use,61267,24764,Hirudin Therapy,427570,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6632,Histamine,19963,37,antagonists & inhibitors,60595,6633,Histamine Antagonists,19966,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6632,Histamine,19963,819,agonists,61435,17442,Histamine Agonists,52210,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6655,Histone Deacetylases,483423,37,antagonists & inhibitors,60595,56572,Histone Deacetylase Inhibitors,732104,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6861,Hydrogen Peroxide,20696,31,analogs & derivatives,60581,10545,Peroxides,31133,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6903,Hydroxymethylglutaryl CoA Reductases,20784,37,antagonists & inhibitors,60595,19161,Hydroxymethylglutaryl-CoA Reductase Inhibitors,57156,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,6967,Hypersensitivity,20920,139,chemically induced,60685,4342,Drug Hypersensitivity,13260,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7037,Hypothyroidism,21070,151,congenital,60708,3409,Congenital Hypothyroidism,602680,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7066,Iduronate Sulfatase,21143,172,deficiency,60727,16532,Mucopolysaccharidosis II,49455,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7070,Immunoglobulin A,433035,172,deficiency,60727,17098,IgA Deficiency,51055,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7074,Immunoglobulin G,433030,172,deficiency,60727,17099,IgG Deficiency,51057,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7106,Immune Sera,21254,627,therapeutic use,61267,7116,"Immunization, Passive",21283,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7328,Insulin,21939,37,antagonists & inhibitors,60595,7329,Insulin Antagonists,21947,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7336,"Insulin, Isophane",21974,37,antagonists & inhibitors,60595,7329,Insulin Antagonists,21947,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7422,Intestines,22288,378,metabolism,60983,7413,Intestinal Mucosa,22269,378,metabolism,60983,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7668,Kidney,23037,637,transplantation,61279,16030,Kidney Transplantation,47610,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7703,Peptidyl-Dipeptidase A,23120,37,antagonists & inhibitors,60595,806,Angiotensin-Converting Enzyme Inhibitors,2397,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7717,Knee,23155,293,injuries,60876,7718,Knee Injuries,23157,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7719,Knee Joint,23158,293,injuries,60876,7718,Knee Injuries,23157,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7767,Lacrimal Duct Obstruction,23254,601,surgery,61234,3608,Dacryocystorhinostomy,10507,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7830,Larynx,23391,294,innervation,60879,7823,Laryngeal Nerves,23382,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7854,Lead,23441,506,poisoning,61130,7855,Lead Poisoning,23443,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7862,Phosphatidylcholine-Sterol O-Acyltransferase,23455,172,deficiency,60727,7863,Lecithin Cholesterol Acyltransferase Deficiency,815865,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7866,Leg,23466,293,injuries,60876,7869,Leg Injuries,23474,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,7962,Leukocytes,23736,637,transplantation,61279,17708,Leukocyte Transfusion,52968,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8055,Lipids,24002,378,metabolism,60983,50356,Lipid Metabolism,614518,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8084,Lipoxygenase,24130,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8099,Liver,24166,637,transplantation,61279,16031,Liver Transplantation,47615,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8107,Liver Diseases,24201,139,chemically induced,60685,56486,Chemical and Drug Induced Liver Injury,900339,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8168,Lung,24344,293,injuries,60876,55370,Lung Injury,712538,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8168,Lung,24344,637,transplantation,61279,16040,Lung Transplantation,47650,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8214,Lymphocytes,24471,637,transplantation,61279,17710,Lymphocyte Transfusion,52974,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8274,Magnesium,24677,172,deficiency,60727,8275,Magnesium Deficiency,24680,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8334,Mandible,24838,293,injuries,60876,8338,Mandibular Injuries,24843,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8345,Manganese,24851,506,poisoning,61130,20149,Manganese Poisoning,358121,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8607,Intellectual Disability,784120,193,education,60761,4495,Education of Intellectually Disabled,784119,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8628,Mercury,25687,506,poisoning,61130,8630,Mercury Poisoning,25690,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8659,Metabolic Diseases,25752,151,congenital,60708,8661,"Metabolism, Inborn Errors",25763,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8706,Methemoglobin,25898,97,blood,60642,8708,Methemoglobinemia,25902,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,8995,Monoamine Oxidase,26890,37,antagonists & inhibitors,60595,8996,Monoamine Oxidase Inhibitors,26901,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9020,Morphine,26956,31,analogs & derivatives,60581,9022,Morphine Derivatives,26968,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9132,Muscles,27296,254,growth & development,60828,24510,Muscle Development,425815,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9136,Muscular Dystrophies,365683,662,veterinary,61316,9137,"Muscular Dystrophy, Animal",27308,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9211,Myoglobin,27468,652,urine,61301,9212,Myoglobinuria,27469,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9222,Myotonia,27493,151,congenital,60708,9224,Myotonia Congenita,27500,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9333,Neck,27844,293,injuries,60876,19838,Neck Injuries,59032,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9369,Neoplasms,27926,556,secondary,61190,9362,Neoplasm Metastasis,27903,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9666,Nose,28752,378,metabolism,60983,9297,Nasal Mucosa,27737,378,metabolism,60983,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9900,Optic Nerve,29317,293,injuries,60876,20221,Optic Nerve Injuries,358320,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9943,Organophosphorus Compounds,29416,506,poisoning,61130,62025,Organophosphate Poisoning,796846,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,9954,Ornithine Carbamoyltransferase,29446,172,deficiency,60727,20163,Ornithine Carbamoyltransferase Deficiency Disease,358321,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10100,Oxygen,29880,172,deficiency,60727,860,Hypoxia,2508,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10129,4-Aminobenzoic Acid,29971,31,analogs & derivatives,60581,62366,para-Aminobenzoates,812770,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10131,Aminosalicylic Acid,1910,31,analogs & derivatives,60581,636,Aminosalicylic Acids,1911,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10146,Pain,30048,628,therapy,61268,59408,Pain Management,777230,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10179,Pancreas,30132,637,transplantation,61279,16035,Pancreas Transplantation,47626,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10300,Parkinson Disease,30420,139,chemically induced,60685,10302,"Parkinson Disease, Secondary",364532,139,chemically induced,60685,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10405,Penicillinase,30735,37,antagonists & inhibitors,60595,65093,beta-Lactamase Inhibitors,849037,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10447,Peptide Hydrolases,30870,37,antagonists & inhibitors,60595,11480,Protease Inhibitors,33911,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19946,Propylene Glycol,59441,31,analogs & derivatives,60581,11409,Propylene Glycols,33669,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20051,N-Acetylgalactosamine-4-Sulfatase,59722,172,deficiency,60727,9087,Mucopolysaccharidosis VI,27162,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20113,Phenolphthalein,59871,31,analogs & derivatives,60581,10635,Phenolphthaleins,31416,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20148,Butyric Acid,59942,31,analogs & derivatives,60581,2087,Butyrates,5926,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20155,3-Hydroxybutyric Acid,59948,31,analogs & derivatives,60581,6885,Hydroxybutyrates,20747,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20156,Salicylic Acid,59952,31,analogs & derivatives,60581,12459,Salicylates,37011,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20160,Sodium Benzoate,59956,31,analogs & derivatives,60581,1565,Benzoates,4537,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20169,Caspases,59964,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20170,Caspase 1,59969,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20358,Sodium Cholate,60168,31,analogs & derivatives,60581,20355,Cholates,60164,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20689,Exopeptidases,109945,37,antagonists & inhibitors,60595,11480,Protease Inhibitors,33911,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20778,Matrix Metalloproteinase 2,664555,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20780,Matrix Metalloproteinase 9,664556,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20781,Matrix Metalloproteinase 1,664558,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20782,Matrix Metalloproteinases,358197,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20783,Matrix Metalloproteinase 7,664559,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20784,Matrix Metalloproteinase 8,664561,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,20820,Dyskinesias,27073,139,chemically induced,60685,4409,"Dyskinesia, Drug-Induced",13457,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,22702,"Receptors, Adrenergic, beta-3",253764,37,antagonists & inhibitors,60595,58673,Adrenergic beta-3 Receptor Antagonists,766506,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,22702,"Receptors, Adrenergic, beta-3",253764,819,agonists,61435,58667,Adrenergic beta-3 Receptor Agonists,766461,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,25101,Vitamin B 6,34696,172,deficiency,60727,26681,Vitamin B 6 Deficiency,436204,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,25203,"Phosphofructokinase-1, Muscle Type",430208,172,deficiency,60727,6014,Glycogen Storage Disease Type VII,18289,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,25782,"Hydroxymethylglutaryl-CoA-Reductases, NADP-dependent",432574,37,antagonists & inhibitors,60595,19161,Hydroxymethylglutaryl-CoA Reductase Inhibitors,57156,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,26942,DNA Topoisomerases,436991,37,antagonists & inhibitors,60595,59003,Topoisomerase Inhibitors,769937,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,28021,Sodium-Potassium-Chloride Symporters,439799,37,antagonists & inhibitors,60595,49994,Sodium Potassium Chloride Symporter Inhibitors,607570,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43209,11-beta-Hydroxysteroid Dehydrogenase Type 2,526968,172,deficiency,60727,43204,"Mineralocorticoid Excess Syndrome, Apparent",533450,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43266,Steryl-Sulfatase,102543,172,deficiency,60727,16114,"Ichthyosis, X-Linked",47877,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43586,Methylmalonyl-CoA Decarboxylase,108513,172,deficiency,60727,56693,Propionic Acidemia,733492,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43684,"Receptor, Adenosine A3",309781,37,antagonists & inhibitors,60595,58918,Adenosine A3 Receptor Antagonists,769036,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43684,"Receptor, Adenosine A3",309781,819,agonists,61435,58909,Adenosine A3 Receptor Agonists,768984,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43704,"Receptor, Adenosine A2B",313263,37,antagonists & inhibitors,60595,58917,Adenosine A2 Receptor Antagonists,769032,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43704,"Receptor, Adenosine A2B",313263,819,agonists,61435,58908,Adenosine A2 Receptor Agonists,768981,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43705,"Receptor, Adenosine A2A",262580,37,antagonists & inhibitors,60595,58917,Adenosine A2 Receptor Antagonists,769032,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43705,"Receptor, Adenosine A2A",262580,819,agonists,61435,58908,Adenosine A2 Receptor Agonists,768981,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43882,"Receptors, Cannabinoid",528685,37,antagonists & inhibitors,60595,63387,Cannabinoid Receptor Antagonists,821378,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,43882,"Receptors, Cannabinoid",528685,819,agonists,61435,63386,Cannabinoid Receptor Agonists,821374,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44022,"Receptor, Endothelin A",248651,37,antagonists & inhibitors,60595,65130,Endothelin A Receptor Antagonists,848817,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44023,"Receptor, Endothelin B",249581,37,antagonists & inhibitors,60595,65131,Endothelin B Receptor Antagonists,848822,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44139,"Receptor, Angiotensin, Type 2",529918,37,antagonists & inhibitors,60595,57912,Angiotensin II Type 2 Receptor Blockers,759071,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44140,"Receptor, Angiotensin, Type 1",529909,37,antagonists & inhibitors,60595,47228,Angiotensin II Type 1 Receptor Blockers,561199,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44263,"Receptors, Serotonin, 5-HT1",530342,37,antagonists & inhibitors,60595,58829,Serotonin 5-HT1 Receptor Antagonists,767785,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44263,"Receptors, Serotonin, 5-HT1",530342,819,agonists,61435,58825,Serotonin 5-HT1 Receptor Agonists,767759,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44282,"Receptor, Serotonin, 5-HT1A",530349,37,antagonists & inhibitors,60595,58829,Serotonin 5-HT1 Receptor Antagonists,767785,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44282,"Receptor, Serotonin, 5-HT1A",530349,819,agonists,61435,58825,Serotonin 5-HT1 Receptor Agonists,767759,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44302,"Receptor, Serotonin, 5-HT1B",530393,37,antagonists & inhibitors,60595,58829,Serotonin 5-HT1 Receptor Antagonists,767785,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44302,"Receptor, Serotonin, 5-HT1B",530393,819,agonists,61435,58825,Serotonin 5-HT1 Receptor Agonists,767759,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44348,"Receptors, Serotonin, 5-HT2",530666,37,antagonists & inhibitors,60595,58830,Serotonin 5-HT2 Receptor Antagonists,767788,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44348,"Receptors, Serotonin, 5-HT2",530666,819,agonists,61435,58826,Serotonin 5-HT2 Receptor Agonists,767776,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44402,"Receptor, Serotonin, 5-HT2A",530863,37,antagonists & inhibitors,60595,58830,Serotonin 5-HT2 Receptor Antagonists,767788,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44402,"Receptor, Serotonin, 5-HT2A",530863,819,agonists,61435,58826,Serotonin 5-HT2 Receptor Agonists,767776,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44403,"Receptor, Serotonin, 5-HT2B",530868,37,antagonists & inhibitors,60595,58830,Serotonin 5-HT2 Receptor Antagonists,767788,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44403,"Receptor, Serotonin, 5-HT2B",530868,819,agonists,61435,58826,Serotonin 5-HT2 Receptor Agonists,767776,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44405,"Receptor, Serotonin, 5-HT2C",530877,37,antagonists & inhibitors,60595,58830,Serotonin 5-HT2 Receptor Antagonists,767788,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44405,"Receptor, Serotonin, 5-HT2C",530877,819,agonists,61435,58826,Serotonin 5-HT2 Receptor Agonists,767776,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44406,"Receptors, Serotonin, 5-HT3",530882,37,antagonists & inhibitors,60595,58831,Serotonin 5-HT3 Receptor Antagonists,767791,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,44406,"Receptors, Serotonin, 5-HT3",530882,819,agonists,61435,58827,Serotonin 5-HT3 Receptor Agonists,767781,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,46988,Proteasome Endopeptidase Complex,558332,37,antagonists & inhibitors,60595,61988,Proteasome Inhibitors,796690,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,48069,Tumor Necrosis Factors,572115,37,antagonists & inhibitors,60595,79424,Tumor Necrosis Factor Inhibitors,946058,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,49528,"Insulin, Long-Acting",585494,37,antagonists & inhibitors,60595,7329,Insulin Antagonists,21947,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,49992,Sodium Chloride Symporters,607548,37,antagonists & inhibitors,60595,49993,Sodium Chloride Symporter Inhibitors,607551,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,50485,GABA Plasma Membrane Transport Proteins,618231,37,antagonists & inhibitors,60595,58805,GABA Uptake Inhibitors,767695,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,50486,Serotonin Plasma Membrane Transport Proteins,618233,37,antagonists & inhibitors,60595,17367,Serotonin Uptake Inhibitors,51946,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,50718,Complement C1 Inhibitor Protein,622995,172,deficiency,60727,56829,Hereditary Angioedema Types I and II,734799,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,50768,Protoporphyrinogen Oxidase,108574,172,deficiency,60727,46350,"Porphyria, Variegate",51034,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,51297,Sodium-Glucose Transporter 2,629201,37,antagonists & inhibitors,60595,77203,Sodium-Glucose Transporter 2 Inhibitors,937586,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,51544,Cytochrome P-450 CYP3A,631008,37,antagonists & inhibitors,60595,65692,Cytochrome P-450 CYP3A Inhibitors,853442,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,51545,Cyclooxygenase 1,290356,37,antagonists & inhibitors,60595,16861,Cyclooxygenase Inhibitors,50484,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,51546,Cyclooxygenase 2,288710,37,antagonists & inhibitors,60595,52246,Cyclooxygenase 2 Inhibitors,638656,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,51760,Xeroderma Pigmentosum Group A Protein,632764,172,deficiency,60727,14983,Xeroderma Pigmentosum,43746,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,51794,Von Hippel-Lindau Tumor Suppressor Protein,633046,172,deficiency,60727,6623,von Hippel-Lindau Disease,19933,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,51860,Fragile X Mental Retardation Protein,633436,172,deficiency,60727,5600,Fragile X Syndrome,16969,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,52119,Lysosomal-Associated Membrane Protein 2,633624,172,deficiency,60727,52120,Glycogen Storage Disease Type IIb,636551,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53143,Caspase 2,266591,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53148,Caspase 3,269780,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53178,Caspase 6,305243,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53179,Caspase 7,305109,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53181,Caspase 8,313163,37,antagonists & inhibitors,60595,61945,Caspase Inhibitors,796871,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2256,Carbonic Anhydrases,425347,37,antagonists & inhibitors,60595,2257,Carbonic Anhydrase Inhibitors,6479,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2374,Catalase,6894,172,deficiency,60727,20642,Acatalasia,358366,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2386,Cataract,6913,601,surgery,61234,2387,Cataract Extraction,6917,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2394,Catechol O-Methyltransferase,6944,37,antagonists & inhibitors,60595,65098,Catechol O-Methyltransferase Inhibitors,848509,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2510,Cephalosporinase,7316,37,antagonists & inhibitors,60595,65093,beta-Lactamase Inhibitors,849037,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2784,Cholesterol,8078,37,antagonists & inhibitors,60595,924,Anticholesteremic Agents,2741,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2794,Choline,8129,172,deficiency,60727,2796,Choline Deficiency,8142,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2802,Cholinesterases,8172,37,antagonists & inhibitors,60595,2800,Cholinesterase Inhibitors,8158,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,2922,Ciguatoxins,478083,506,poisoning,61130,36841,Ciguatera Poisoning,486480,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3165,Complement System Proteins,620320,37,antagonists & inhibitors,60595,3169,Complement Inactivator Proteins,622895,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3238,Connective Tissue,9439,166,cytology,60717,3239,Connective Tissue Cells,9440,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3304,Coproporphyrinogen Oxidase,9666,172,deficiency,60727,46349,"Coproporphyria, Hereditary",51033,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3315,Cornea,9695,293,injuries,60876,65306,Corneal Injuries,851213,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3315,Cornea,9695,637,transplantation,61279,16039,Corneal Transplantation,47642,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3546,Cysteine Endopeptidases,10297,37,antagonists & inhibitors,60595,15853,Cysteine Proteinase Inhibitors,47044,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3553,Cystine,10322,652,urine,61301,3555,Cystinuria,10324,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3576,Electron Transport Complex IV,536794,172,deficiency,60727,30401,Cytochrome-c Oxidase Deficiency,443344,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3577,Cytochrome P-450 Enzyme System,485421,37,antagonists & inhibitors,60595,65607,Cytochrome P-450 Enzyme Inhibitors,852918,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,3920,Diabetes Mellitus,11730,150,complications,60699,48909,Diabetes Complications,578794,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4040,Dietary Carbohydrates,12262,172,deficiency,60727,2241,Carbohydrates,6433,172,deficiency,60727,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4040,Dietary Carbohydrates,12262,737,chemistry,61380,2241,Carbohydrates,6433,737,chemistry,61380,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4041,Dietary Fats,12264,172,deficiency,60727,8055,Lipids,24002,172,deficiency,60727,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4041,Dietary Fats,12264,737,chemistry,61380,5223,Fats,16000,737,chemistry,61380,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4042,"Dietary Fats, Unsaturated",12267,737,chemistry,61380,5224,"Fats, Unsaturated",16002,737,chemistry,61380,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4044,Dietary Proteins,12274,172,deficiency,60727,11488,Protein Deficiency,33930,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4093,Dihydropteridine Reductase,12416,172,deficiency,60727,10661,Phenylketonurias,364716,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4198,Disease Susceptibility,12748,235,genetics,60806,20022,Genetic Predisposition to Disease,59662,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4250,"DNA Topoisomerases, Type II",439349,37,antagonists & inhibitors,60595,59005,Topoisomerase II Inhibitors,769966,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4259,DNA-Directed DNA Polymerase,12949,37,antagonists & inhibitors,60595,19384,Nucleic Acid Synthesis Inhibitors,57780,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4264,"DNA Topoisomerases, Type I",439293,37,antagonists & inhibitors,60595,59004,Topoisomerase I Inhibitors,769956,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4296,Dopa Decarboxylase,13136,37,antagonists & inhibitors,60595,65105,Aromatic Amino Acid Decarboxylase Inhibitors,848598,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4298,Dopamine,13138,37,antagonists & inhibitors,60595,18492,Dopamine Antagonists,55082,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4298,Dopamine,13138,819,agonists,61435,18491,Dopamine Agonists,55077,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4364,Pharmaceutical Preparations,13329,9,adverse effects,60556,64420,Drug-Related Side Effects and Adverse Reactions,837951,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4364,Pharmaceutical Preparations,13329,37,antagonists & inhibitors,60595,4336,Drug Antagonism,13247,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4364,Pharmaceutical Preparations,13329,331,legislation & jurisprudence,60922,7880,"Legislation, Drug",23503,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4364,Pharmaceutical Preparations,13329,493,pharmacokinetics,61112,10599,Pharmacokinetics,31284,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4364,Pharmaceutical Preparations,13329,494,pharmacology,61119,10600,Pharmacology,31286,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,4364,Pharmaceutical Preparations,13329,506,poisoning,61130,11041,Poisoning,32470,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11941,"Receptors, Adrenergic",35281,819,agonists,61435,322,Adrenergic Agonists,1058,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11942,"Receptors, Adrenergic, alpha",35290,37,antagonists & inhibitors,60595,317,Adrenergic alpha-Antagonists,1035,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11942,"Receptors, Adrenergic, alpha",35290,819,agonists,61435,316,Adrenergic alpha-Agonists,1028,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11943,"Receptors, Adrenergic, beta",35295,37,antagonists & inhibitors,60595,319,Adrenergic beta-Antagonists,1051,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11943,"Receptors, Adrenergic, beta",35295,819,agonists,61435,318,Adrenergic beta-Agonists,1045,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11944,"Receptors, Androgen",35299,37,antagonists & inhibitors,60595,59002,Androgen Receptor Antagonists,769920,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11944,"Receptors, Androgen",35299,819,agonists,61435,728,Androgens,2188,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11945,"Receptors, Angiotensin",35305,37,antagonists & inhibitors,60595,57911,Angiotensin Receptor Antagonists,759068,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11950,"Receptors, Cholinergic",35351,37,antagonists & inhibitors,60595,18680,Cholinergic Antagonists,55618,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11950,"Receptors, Cholinergic",35351,819,agonists,61435,18679,Cholinergic Agonists,55611,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11954,"Receptors, Dopamine",35371,37,antagonists & inhibitors,60595,18492,Dopamine Antagonists,55082,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11954,"Receptors, Dopamine",35371,819,agonists,61435,18491,Dopamine Agonists,55077,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11957,"Receptors, Opioid",35390,37,antagonists & inhibitors,60595,9292,Narcotic Antagonists,27724,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11963,"Receptors, GABA-A",35448,37,antagonists & inhibitors,60595,58787,GABA-A Receptor Antagonists,767587,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11963,"Receptors, GABA-A",35448,819,agonists,61435,58785,GABA-A Receptor Agonists,767581,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11968,"Receptors, Histamine",35513,37,antagonists & inhibitors,60595,6633,Histamine Antagonists,19966,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11968,"Receptors, Histamine",35513,819,agonists,61435,17442,Histamine Agonists,52210,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11970,"Receptors, Histamine H2",35523,37,antagonists & inhibitors,60595,6635,Histamine H2 Antagonists,19988,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11970,"Receptors, Histamine H2",35523,819,agonists,61435,17442,Histamine Agonists,52210,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11976,"Receptors, Muscarinic",35572,37,antagonists & inhibitors,60595,18727,Muscarinic Antagonists,55778,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11976,"Receptors, Muscarinic",35572,819,agonists,61435,18721,Muscarinic Agonists,55764,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11978,"Receptors, Nicotinic",35577,37,antagonists & inhibitors,60595,18733,Nicotinic Antagonists,55793,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11978,"Receptors, Nicotinic",35577,819,agonists,61435,18722,Nicotinic Agonists,55768,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11983,"Receptors, Purinergic",35604,37,antagonists & inhibitors,60595,58914,Purinergic Antagonists,769024,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11983,"Receptors, Purinergic",35604,819,agonists,61435,58913,Purinergic Agonists,769021,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11985,"Receptors, Serotonin",35616,37,antagonists & inhibitors,60595,12702,Serotonin Antagonists,37559,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11985,"Receptors, Serotonin",35616,819,agonists,61435,17366,Serotonin Receptor Agonists,51929,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12194,RNA-Directed DNA Polymerase,36296,37,antagonists & inhibitors,60595,18894,Reverse Transcriptase Inhibitors,56320,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12256,Riboflavin,36408,172,deficiency,60727,12257,Riboflavin Deficiency,36413,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12601,Scopolamine,37329,31,analogs & derivatives,60581,12602,Scopolamine Derivatives,37332,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12697,Serine Endopeptidases,363772,37,antagonists & inhibitors,60595,15842,Serine Proteinase Inhibitors,46971,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12701,Serotonin,37552,37,antagonists & inhibitors,60595,12702,Serotonin Antagonists,37559,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12701,Serotonin,37552,819,agonists,61435,17366,Serotonin Receptor Agonists,51929,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12709,Serum Albumin,37571,652,urine,61301,419,Albuminuria,1261,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12782,Shoulder,37729,293,injuries,60876,70599,Shoulder Injuries,888742,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12834,Silver,37837,506,poisoning,61130,1129,Argyria,3408,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,12982,"Sodium, Dietary",38262,737,chemistry,61380,12964,Sodium,38193,737,chemistry,61380,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13131,Spine,38620,293,injuries,60876,13124,Spinal Injuries,38604,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13199,Stapes,38763,601,surgery,61234,13201,Stapes Surgery,38767,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13252,Steroid 11-beta-Hydroxylase,38935,172,deficiency,60727,312,"Adrenal Hyperplasia, Congenital",1013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13254,Steroid 17-alpha-Hydroxylase,494562,172,deficiency,60727,312,"Adrenal Hyperplasia, Congenital",1013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13255,Steroid 21-Hydroxylase,38969,172,deficiency,60727,312,"Adrenal Hyperplasia, Congenital",1013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13587,Syphilis,39927,151,congenital,60708,13590,"Syphilis, Congenital",39936,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13710,Tendons,40280,293,injuries,60876,13708,Tendon Injuries,40278,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13741,3-Oxo-5-alpha-Steroid 4-Dehydrogenase,768865,37,antagonists & inhibitors,60595,58891,5-alpha Reductase Inhibitors,768867,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13752,Tetracycline,40393,31,analogs & derivatives,60581,13754,Tetracyclines,40401,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13762,Tetrahydrofolate Dehydrogenase,40435,37,antagonists & inhibitors,60595,5493,Folic Acid Antagonists,16718,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13831,Thiamine,40618,172,deficiency,60727,13832,Thiamine Deficiency,40623,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13909,Thorax,40792,293,injuries,60876,13898,Thoracic Injuries,40766,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,13963,Thyroid Hormones,40948,37,antagonists & inhibitors,60595,13956,Antithyroid Agents,40931,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14238,Trichloroacetic Acid,41708,31,analogs & derivatives,60581,62845,Chloroacetates,815967,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14269,Trifluoroacetic Acid,41773,31,analogs & derivatives,60581,5463,Fluoroacetates,16623,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14357,Trypsin,42002,37,antagonists & inhibitors,60595,14361,Trypsin Inhibitors,42020,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14404,Tubulin,42117,37,antagonists & inhibitors,60595,50257,Tubulin Modulators,611986,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14551,Urinary Tract,42579,502,physiology,61125,14553,Urinary Tract Physiological Phenomena,721762,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14688,Venoms,42965,37,antagonists & inhibitors,60595,997,Antivenins,3070,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14801,Vitamin A,43276,172,deficiency,60727,14802,Vitamin A Deficiency,43281,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14801,Vitamin A,43276,506,poisoning,61130,6986,Hypervitaminosis A,20962,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14805,Vitamin B 12,43287,172,deficiency,60727,14806,Vitamin B 12 Deficiency,43293,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14807,Vitamin D,43296,172,deficiency,60727,14808,Vitamin D Deficiency,43298,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14810,Vitamin E,43314,172,deficiency,60727,14811,Vitamin E Deficiency,43317,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14812,Vitamin K,43320,172,deficiency,60727,14813,Vitamin K Deficiency,43324,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14867,Water,43429,97,blood,60642,1769,Blood,5141,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14867,Water,43429,382,microbiology,60998,14871,Water Microbiology,43435,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14867,Water,43429,506,poisoning,61130,14869,Water Intoxication,43432,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14867,Water,43429,600,supply & distribution,61231,14881,Water Supply,43448,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14867,Water,43429,633,toxicity,61274,14869,Water Intoxication,43432,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14867,Water,43429,652,urine,61301,14556,Urine,42587,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,14955,Wrist Joint,43672,293,injuries,60876,14954,Wrist Injuries,43671,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15119,Aminocaproic Acid,1842,31,analogs & derivatives,60581,614,Aminocaproates,840444,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15220,Calcium Channels,44509,37,antagonists & inhibitors,60595,2121,Calcium Channel Blockers,6046,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15220,Calcium Channels,44509,819,agonists,61435,2120,Calcium Channel Agonists,6038,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15221,Potassium Channels,44522,37,antagonists & inhibitors,60595,26902,Potassium Channel Blockers,436949,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15222,Sodium Channels,44527,37,antagonists & inhibitors,60595,26941,Sodium Channel Blockers,436989,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15222,Sodium Channels,44527,819,agonists,61435,62687,Sodium Channel Agonists,814192,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15289,Leukotrienes,44922,37,antagonists & inhibitors,60595,20024,Leukotriene Antagonists,59668,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15632,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",46218,506,poisoning,61130,20267,MPTP Poisoning,358147,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15632,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",46218,633,toxicity,61274,20267,MPTP Poisoning,358147,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15942,Factor VIIa,47315,172,deficiency,60727,5168,Factor VII Deficiency,15799,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15949,Factor IXa,47342,172,deficiency,60727,2836,Hemophilia B,8258,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15951,Factor Xa,47348,37,antagonists & inhibitors,60595,65427,Factor Xa Inhibitors,849010,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,15951,Factor Xa,47348,172,deficiency,60727,5171,Factor X Deficiency,15828,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,16333,HIV Protease,48740,37,antagonists & inhibitors,60595,17320,HIV Protease Inhibitors,51743,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,16572,Cyclosporine,49578,31,analogs & derivatives,60581,3524,Cyclosporins,10211,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,16685,Mitomycin,26710,31,analogs & derivatives,60581,8937,Mitomycins,26711,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,16718,Arachidonic Acid,50096,31,analogs & derivatives,60581,1095,Arachidonic Acids,3326,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17293,Protein S,51617,172,deficiency,60727,18455,Protein S Deficiency,54988,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17364,Collagenases,51913,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17378,Quinolinic Acid,51977,31,analogs & derivatives,60581,11805,Quinolinic Acids,34866,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17448,"Receptors, Dopamine D2",52231,37,antagonists & inhibitors,60595,65127,Dopamine D2 Receptor Antagonists,848810,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17466,"Receptors, Endothelin",52361,37,antagonists & inhibitors,60595,65128,Endothelin Receptor Antagonists,848813,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17470,"Receptors, Glutamate",52384,37,antagonists & inhibitors,60595,18691,Excitatory Amino Acid Antagonists,55662,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17470,"Receptors, Glutamate",52384,819,agonists,61435,18690,Excitatory Amino Acid Agonists,55656,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17483,"Receptors, Vasopressin",52455,37,antagonists & inhibitors,60595,65092,Antidiuretic Hormone Receptor Antagonists,848392,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17494,Proton Pumps,431532,37,antagonists & inhibitors,60595,54328,Proton Pump Inhibitors,686401,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17506,H(+)-K(+)-Exchanging ATPase,52552,37,antagonists & inhibitors,60595,54328,Proton Pump Inhibitors,686401,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17673,"Sodium Chloride, Dietary",52876,737,chemistry,61380,12965,Sodium Chloride,38197,737,chemistry,61380,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17674,Hypophosphatemia,52877,151,congenital,60708,7015,"Hypophosphatemia, Familial",21021,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17895,Manganese Compounds,53492,506,poisoning,61130,20149,Manganese Poisoning,358121,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,17895,Manganese Compounds,53492,633,toxicity,61274,20149,Manganese Poisoning,358121,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18002,"Receptors, Bradykinin",53811,37,antagonists & inhibitors,60595,65168,Bradykinin Receptor Antagonists,849168,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,502,physiology,61125,18521,Plant Physiological Phenomena,721555,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18015,"Receptors, Calcitonin Gene-Related Peptide",53849,37,antagonists & inhibitors,60595,77221,Calcitonin Gene-Related Peptide Receptor Antagonists,937759,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18040,"Receptors, Neurokinin-1",53947,37,antagonists & inhibitors,60595,64729,Neurokinin-1 Receptor Antagonists,840399,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18047,"Receptors, Purinergic P1",54001,37,antagonists & inhibitors,60595,58915,Purinergic P1 Receptor Antagonists,769027,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18047,"Receptors, Purinergic P1",54001,819,agonists,61435,58906,Purinergic P1 Receptor Agonists,768977,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18048,"Receptors, Purinergic P2",54012,37,antagonists & inhibitors,60595,58919,Purinergic P2 Receptor Antagonists,769037,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18048,"Receptors, Purinergic P2",54012,819,agonists,61435,58910,Purinergic P2 Receptor Agonists,768985,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18077,"Receptors, Leukotriene",54088,37,antagonists & inhibitors,60595,20024,Leukotriene Antagonists,59668,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18079,"Receptors, GABA",54100,37,antagonists & inhibitors,60595,18756,GABA Antagonists,55856,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18079,"Receptors, GABA",54100,819,agonists,61435,18755,GABA Agonists,55851,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18080,"Receptors, GABA-B",54106,37,antagonists & inhibitors,60595,58788,GABA-B Receptor Antagonists,767590,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18080,"Receptors, GABA-B",54106,819,agonists,61435,58786,GABA-B Receptor Agonists,767584,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18100,"Receptors, Histamine H3",54154,37,antagonists & inhibitors,60595,6633,Histamine Antagonists,19966,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18100,"Receptors, Histamine H3",54154,819,agonists,61435,17442,Histamine Agonists,52210,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18118,Chloride Channels,54211,819,agonists,61435,65101,Chloride Channel Agonists,848529,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18161,"Receptors, Mineralocorticoid",54352,37,antagonists & inhibitors,60595,451,Mineralocorticoid Receptor Antagonists,816176,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18340,"Receptors, Adrenergic, alpha-1",54711,37,antagonists & inhibitors,60595,58668,Adrenergic alpha-1 Receptor Antagonists,766483,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18340,"Receptors, Adrenergic, alpha-1",54711,819,agonists,61435,58646,Adrenergic alpha-1 Receptor Agonists,766329,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18341,"Receptors, Adrenergic, alpha-2",54718,37,antagonists & inhibitors,60595,58669,Adrenergic alpha-2 Receptor Antagonists,766487,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18341,"Receptors, Adrenergic, alpha-2",54718,819,agonists,61435,58647,Adrenergic alpha-2 Receptor Agonists,766332,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18342,"Receptors, Adrenergic, beta-1",54725,37,antagonists & inhibitors,60595,58671,Adrenergic beta-1 Receptor Antagonists,766498,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18342,"Receptors, Adrenergic, beta-1",54725,819,agonists,61435,58665,Adrenergic beta-1 Receptor Agonists,766455,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18343,"Receptors, Adrenergic, beta-2",54732,37,antagonists & inhibitors,60595,58672,Adrenergic beta-2 Receptor Antagonists,766502,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18343,"Receptors, Adrenergic, beta-2",54732,819,agonists,61435,58666,Adrenergic beta-2 Receptor Agonists,766458,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18698,Glutamic Acid,55676,37,antagonists & inhibitors,60595,18691,Excitatory Amino Acid Antagonists,55662,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18698,Glutamic Acid,55676,819,agonists,61435,18690,Excitatory Amino Acid Agonists,55656,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,18819,Dipeptidyl Peptidase 4,761805,37,antagonists & inhibitors,60595,54873,Dipeptidyl-Peptidase IV Inhibitors,695078,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19038,Platelet Glycoprotein GPIb-IX Complex,56804,172,deficiency,60727,1606,Bernard-Soulier Syndrome,4624,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19039,Platelet Glycoprotein GPIIb-IIIa Complex,56830,172,deficiency,60727,13915,Thrombasthenia,40804,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19216,"Metals, Heavy",57246,506,poisoning,61130,75322,Heavy Metal Poisoning,923142,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19271,Hypoxanthine,57415,31,analogs & derivatives,60581,7042,Hypoxanthines,21081,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19278,Matrix Metalloproteinase 3,57436,37,antagonists & inhibitors,60595,61965,Matrix Metalloproteinase Inhibitors,796465,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19301,Oleic Acid,57503,31,analogs & derivatives,60581,9829,Oleic Acids,29165,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19308,Palmitic Acid,57552,31,analogs & derivatives,60581,10169,Palmitic Acids,30105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19342,Acetic Acid,57660,31,analogs & derivatives,60581,85,Acetates,232,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19345,Zinc Acetate,57669,31,analogs & derivatives,60581,85,Acetates,232,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19346,Sodium Acetate,57671,31,analogs & derivatives,60581,85,Acetates,232,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19354,Sodium Lactate,57685,31,analogs & derivatives,60581,7773,Lactates,23281,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19357,Potassium Citrate,57689,31,analogs & derivatives,60581,2951,Citrates,8540,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19388,Cytochrome P-450 CYP1A2,57791,37,antagonists & inhibitors,60595,65609,Cytochrome P-450 CYP1A2 Inhibitors,852927,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19389,Cytochrome P-450 CYP2D6,57804,37,antagonists & inhibitors,60595,65690,Cytochrome P-450 CYP2D6 Inhibitors,853440,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19392,Cytochrome P-450 CYP2E1,57813,37,antagonists & inhibitors,60595,65691,Cytochrome P-450 CYP2E1 Inhibitors,853441,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19426,Integrases,539230,37,antagonists & inhibitors,60595,19429,Integrase Inhibitors,57931,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19427,HIV Integrase,57925,37,antagonists & inhibitors,60595,19428,HIV Integrase Inhibitors,57929,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19703,Calcineurin,58604,37,antagonists & inhibitors,60595,65095,Calcineurin Inhibitors,848420,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19713,"Receptors, CCR5",58638,37,antagonists & inhibitors,60595,65100,CCR5 Receptor Antagonists,848521,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53181,Caspase 8,313163,172,deficiency,60727,56769,Alstrom Syndrome,734364,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,53362,Edar-Associated Death Domain Protein,661884,172,deficiency,60727,53360,"Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive",661889,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62548,Voltage-Gated Sodium Channel beta-2 Subunit,813331,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62549,Voltage-Gated Sodium Channel beta-3 Subunit,813332,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62549,Voltage-Gated Sodium Channel beta-3 Subunit,813332,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62550,NAV1.1 Voltage-Gated Sodium Channel,813393,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62550,NAV1.1 Voltage-Gated Sodium Channel,813393,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62551,NAV1.2 Voltage-Gated Sodium Channel,813395,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62551,NAV1.2 Voltage-Gated Sodium Channel,813395,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62552,NAV1.3 Voltage-Gated Sodium Channel,813396,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62552,NAV1.3 Voltage-Gated Sodium Channel,813396,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62553,NAV1.4 Voltage-Gated Sodium Channel,813371,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62553,NAV1.4 Voltage-Gated Sodium Channel,813371,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62554,NAV1.5 Voltage-Gated Sodium Channel,813374,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62554,NAV1.5 Voltage-Gated Sodium Channel,813374,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62556,NAV1.7 Voltage-Gated Sodium Channel,813390,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62556,NAV1.7 Voltage-Gated Sodium Channel,813390,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62557,NAV1.6 Voltage-Gated Sodium Channel,813384,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62557,NAV1.6 Voltage-Gated Sodium Channel,813384,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62558,NAV1.9 Voltage-Gated Sodium Channel,813364,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62558,NAV1.9 Voltage-Gated Sodium Channel,813364,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62559,NAV1.8 Voltage-Gated Sodium Channel,813367,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62559,NAV1.8 Voltage-Gated Sodium Channel,813367,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62565,Acid Sensing Ion Channels,813499,37,antagonists & inhibitors,60595,62646,Acid Sensing Ion Channel Blockers,813941,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62565,Acid Sensing Ion Channels,813499,819,agonists,61435,62687,Sodium Channel Agonists,814192,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62585,Voltage-Gated Sodium Channel beta-4 Subunit,813621,37,antagonists & inhibitors,60595,61567,Voltage-Gated Sodium Channel Blockers,794013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,62585,Voltage-Gated Sodium Channel beta-4 Subunit,813621,819,agonists,61435,61585,Voltage-Gated Sodium Channel Agonists,794105,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,63065,Organophosphonates,818059,506,poisoning,61130,62025,Organophosphate Poisoning,796846,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,63066,Organofluorophosphonates,830588,506,poisoning,61130,62025,Organophosphate Poisoning,796846,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,63086,Organothiophosphates,818084,506,poisoning,61130,62025,Organophosphate Poisoning,796846,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,64446,Orexin Receptors,838104,37,antagonists & inhibitors,60595,68796,Orexin Receptor Antagonists,877289,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,64486,"Solute Carrier Family 12, Member 3",838428,37,antagonists & inhibitors,60595,49993,Sodium Chloride Symporter Inhibitors,607551,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,64828,Prolyl Hydroxylases,843395,37,antagonists & inhibitors,60595,64800,Prolyl-Hydroxylase Inhibitors,843175,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,65702,Cytochrome P-450 CYP2B6,853511,37,antagonists & inhibitors,60595,65686,Cytochrome P-450 CYP2B6 Inhibitors,853436,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,65727,Cytochrome P-450 CYP2C8,853793,37,antagonists & inhibitors,60595,65687,Cytochrome P-450 CYP2C8 Inhibitors,853437,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,65729,Cytochrome P-450 CYP2C9,853805,37,antagonists & inhibitors,60595,65688,Cytochrome P-450 CYP2C9 Inhibitors,853438,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,65731,Cytochrome P-450 CYP2C19,853818,37,antagonists & inhibitors,60595,65689,Cytochrome P-450 CYP2C19 Inhibitors,853439,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,74261,"Receptors, Enterotoxin",914615,819,agonists,61435,74268,Guanylyl Cyclase C Agonists,914629,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19787,Linoleic Acid,58834,31,analogs & derivatives,60581,8041,Linoleic Acids,23964,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19793,Fluorescein,58856,31,analogs & derivatives,60581,5452,Fluoresceins,16594,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19794,"2,3-Diphosphoglycerate",58869,31,analogs & derivatives,60581,4163,Diphosphoglyceric Acids,12652,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19800,Phenol,58894,31,analogs & derivatives,60581,10636,Phenols,31418,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19802,Succinic Acid,58897,31,analogs & derivatives,60581,13386,Succinates,39279,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19804,Mesalamine,58909,31,analogs & derivatives,60581,636,Aminosalicylic Acids,1911,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19811,Hydroxylamine,58944,31,analogs & derivatives,60581,6898,Hydroxylamines,20777,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19815,Oxalic Acid,58959,31,analogs & derivatives,60581,10070,Oxalates,29783,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19820,Xanthine,58973,31,analogs & derivatives,60581,14970,Xanthines,43715,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19826,Cholic Acid,58979,31,analogs & derivatives,60581,2793,Cholic Acids,8128,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19837,Ryanodine Receptor Calcium Release Channel,59026,37,antagonists & inhibitors,60595,2121,Calcium Channel Blockers,6046,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19837,Ryanodine Receptor Calcium Release Channel,59026,819,agonists,61435,2120,Calcium Channel Agonists,6038,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19840,2-Propanol,59033,31,analogs & derivatives,60581,20005,Propanols,59631,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,19905,Benzyl Alcohol,59297,31,analogs & derivatives,60581,1592,Benzyl Alcohols,4604,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10450,Endopeptidases,30876,37,antagonists & inhibitors,60595,11480,Protease Inhibitors,33911,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10455,Peptides,30900,96,biosynthesis,60639,10452,Peptide Biosynthesis,550427,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10727,Phosphoric Diester Hydrolases,31695,37,antagonists & inhibitors,60595,10726,Phosphodiesterase Inhibitors,31692,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10755,Organophosphates,592889,506,poisoning,61130,62025,Organophosphate Poisoning,796846,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10879,Piperazines,32077,31,analogs & derivatives,60581,77489,Piperazine,939976,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10920,Placenta,32166,254,growth & development,60828,10929,Placentation,32191,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,166,cytology,60717,59828,Plant Cells,780786,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,254,growth & development,60828,63245,Plant Development,820277,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11065,Poly(ADP-ribose) Polymerases,475372,37,antagonists & inhibitors,60595,67856,Poly(ADP-ribose) Polymerase Inhibitors,873036,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11095,Polyethylenes,32643,31,analogs & derivatives,60581,20959,Polyethylene,32644,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11163,Hydroxymethylbilane Synthase,32881,172,deficiency,60727,17118,"Porphyria, Acute Intermittent",51121,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11188,Potassium,32957,172,deficiency,60727,11191,Potassium Deficiency,32962,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11449,Prostaglandin Endoperoxides,33798,31,analogs & derivatives,60581,11450,"Prostaglandin Endoperoxides, Synthetic",33801,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11451,Prostaglandin-Endoperoxide Synthases,641056,37,antagonists & inhibitors,60595,16861,Cyclooxygenase Inhibitors,50484,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11453,Prostaglandins,33825,31,analogs & derivatives,60581,11465,"Prostaglandins, Synthetic",33872,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11453,Prostaglandins,33825,37,antagonists & inhibitors,60595,11448,Prostaglandin Antagonists,33794,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11454,Prostaglandins A,33827,31,analogs & derivatives,60581,11455,"Prostaglandins A, Synthetic",33831,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11458,Prostaglandins E,33838,31,analogs & derivatives,60581,11459,"Prostaglandins E, Synthetic",33842,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11460,Prostaglandins F,33845,31,analogs & derivatives,60581,11461,"Prostaglandins F, Synthetic",33849,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11486,Protein C,33926,172,deficiency,60727,20151,Protein C Deficiency,59944,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11494,Protein Kinases,33952,37,antagonists & inhibitors,60595,47428,Protein Kinase Inhibitors,563761,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,96,biosynthesis,60639,14176,Protein Biosynthesis,549975,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,97,blood,60642,1798,Blood Proteins,5218,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,134,cerebrospinal fluid,60681,2556,Cerebrospinal Fluid Proteins,7455,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,172,deficiency,60727,11488,Protein Deficiency,33930,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,652,urine,61301,11507,Proteinuria,34004,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11516,Prothrombin,34022,172,deficiency,60727,7020,Hypoprothrombinemias,21034,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11618,Psychotic Disorders,34300,139,chemically induced,60685,11605,"Psychoses, Substance-Induced",34265,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11768,Pyruvate Dehydrogenase Complex,34784,172,deficiency,60727,15325,Pyruvate Dehydrogenase Complex Deficiency Disease,364789,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11941,"Receptors, Adrenergic",35281,37,antagonists & inhibitors,60595,18674,Adrenergic Antagonists,55589,,,,EP_HM
+D,2019-12-03,8340,Mandibular Nerve,24845,293,injuries,60876,,61221,Trigeminal Nerve Injuries,788951,,,,,,,,,,,,,,,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,8340,Mandibular Nerve,24845,293,injuries,60876,80902,Mandibular Nerve Injuries,955472,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,11846,Radio Waves,34964,627,therapeutic use,61267,78702,Radiofrequency Therapy,943258,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,19602,Food and Beverages,58323,331,legislation & jurisprudence,60922,7881,"Legislation, Food",23507,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,48069,Tumor Necrosis Factors,572115,37,antagonists & inhibitors,60595,79424,Tumor Necrosis Factor Inhibitors,946058,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58539,Phosphatidylinositol 3-Kinase,59148,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58541,Class II Phosphatidylinositol 3-Kinases,765295,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58543,Class Ia Phosphatidylinositol 3-Kinase,764938,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58544,Class Ib Phosphatidylinositol 3-Kinase,764941,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58571,Vacuolar Sorting Protein VPS15,765233,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+A,2019-12-03,,,,,,,,,,,,,,,,4264,"DNA Topoisomerases, Type I",439293,37,antagonists & inhibitors,60595,59004,Topoisomerase I Inhibitors,769956,,,,EP_SCR
+A,2019-12-03,,,,,,,,,,,,,,,,13,Congenital Abnormalities,29,139,chemically induced,60685,14,"Abnormalities, Drug-Induced",34,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,110,Acetylcholinesterase,315,37,antagonists & inhibitors,60595,2800,Cholinesterase Inhibitors,8158,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,243,Adenosine Deaminase,728,37,antagonists & inhibitors,60595,58892,Adenosine Deaminase Inhibitors,768898,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,262,Adenylyl Cyclases,873567,37,antagonists & inhibitors,60595,67956,Adenylyl Cyclase Inhibitors,873565,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,308,Adrenocortical Hyperfunction,569771,151,congenital,60708,312,"Adrenal Hyperplasia, Congenital",1013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,418,Albumins,1260,97,blood,60642,12709,Serum Albumin,37571,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,418,Albumins,1260,652,urine,61301,419,Albuminuria,1261,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,450,Aldosterone,1358,37,antagonists & inhibitors,60595,451,Mineralocorticoid Receptor Antagonists,816176,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,515,alpha 1-Antitrypsin,1523,172,deficiency,60727,19896,alpha 1-Antitrypsin Deficiency,59262,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,519,alpha-Galactosidase,1552,172,deficiency,60727,795,Fabry Disease,2358,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,520,alpha-Glucosidases,1555,37,antagonists & inhibitors,60595,65089,Glycoside Hydrolase Inhibitors,860495,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,743,"Anemia, Hemolytic",2218,151,congenital,60708,745,"Anemia, Hemolytic, Congenital",2228,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,842,Ankle,2465,293,injuries,60876,16512,Ankle Injuries,49385,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,906,Antibodies,2667,96,biosynthesis,60639,917,Antibody Formation,2705,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,906,Antibodies,2667,172,deficiency,60727,7153,Immunologic Deficiency Syndromes,21450,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,990,Antithrombin III,3049,172,deficiency,60727,20152,Antithrombin III Deficiency,59946,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1092,Arachidonate 12-Lipoxygenase,3314,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1093,Arachidonate 15-Lipoxygenase,3317,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1094,Arachidonate 5-Lipoxygenase,3320,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1119,Arginase,3378,172,deficiency,60727,20162,Hyperargininemia,358331,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1123,Argininosuccinate Lyase,3396,172,deficiency,60727,56807,Argininosuccinic Aciduria,734488,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1132,Arm,3411,293,injuries,60876,1134,Arm Injuries,3417,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1141,Aromatase,3429,37,antagonists & inhibitors,60595,47072,Aromatase Inhibitors,559263,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1142,Aromatic-L-Amino-Acid Decarboxylases,3442,37,antagonists & inhibitors,60595,65105,Aromatic Amino Acid Decarboxylase Inhibitors,848598,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1151,Arsenic,3465,506,poisoning,61130,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1152,Arsenicals,3466,506,poisoning,61130,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1152,Arsenicals,3466,633,toxicity,61274,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10450,Endopeptidases,30876,37,antagonists & inhibitors,60595,11480,Protease Inhibitors,33911,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10455,Peptides,30900,96,biosynthesis,60639,10452,Peptide Biosynthesis,550427,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10727,Phosphoric Diester Hydrolases,31695,37,antagonists & inhibitors,60595,10726,Phosphodiesterase Inhibitors,31692,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10755,Organophosphates,592889,506,poisoning,61130,62025,Organophosphate Poisoning,796846,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10879,Piperazines,32077,31,analogs & derivatives,60581,77489,Piperazine,939976,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10920,Placenta,32166,254,growth & development,60828,10929,Placentation,32191,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,166,cytology,60717,59828,Plant Cells,780786,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,254,growth & development,60828,63245,Plant Development,820277,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,502,physiology,61125,18521,Plant Physiological Phenomena,721555,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11065,Poly(ADP-ribose) Polymerases,475372,37,antagonists & inhibitors,60595,67856,Poly(ADP-ribose) Polymerase Inhibitors,873036,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11095,Polyethylenes,32643,31,analogs & derivatives,60581,20959,Polyethylene,32644,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11163,Hydroxymethylbilane Synthase,32881,172,deficiency,60727,17118,"Porphyria, Acute Intermittent",51121,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11188,Potassium,32957,172,deficiency,60727,11191,Potassium Deficiency,32962,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11449,Prostaglandin Endoperoxides,33798,31,analogs & derivatives,60581,11450,"Prostaglandin Endoperoxides, Synthetic",33801,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11451,Prostaglandin-Endoperoxide Synthases,641056,37,antagonists & inhibitors,60595,16861,Cyclooxygenase Inhibitors,50484,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11453,Prostaglandins,33825,31,analogs & derivatives,60581,11465,"Prostaglandins, Synthetic",33872,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11453,Prostaglandins,33825,37,antagonists & inhibitors,60595,11448,Prostaglandin Antagonists,33794,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11454,Prostaglandins A,33827,31,analogs & derivatives,60581,11455,"Prostaglandins A, Synthetic",33831,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11458,Prostaglandins E,33838,31,analogs & derivatives,60581,11459,"Prostaglandins E, Synthetic",33842,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11460,Prostaglandins F,33845,31,analogs & derivatives,60581,11461,"Prostaglandins F, Synthetic",33849,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11486,Protein C,33926,172,deficiency,60727,20151,Protein C Deficiency,59944,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11494,Protein Kinases,33952,37,antagonists & inhibitors,60595,47428,Protein Kinase Inhibitors,563761,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,96,biosynthesis,60639,14176,Protein Biosynthesis,549975,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,97,blood,60642,1798,Blood Proteins,5218,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,134,cerebrospinal fluid,60681,2556,Cerebrospinal Fluid Proteins,7455,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,172,deficiency,60727,11488,Protein Deficiency,33930,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,652,urine,61301,11507,Proteinuria,34004,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11516,Prothrombin,34022,172,deficiency,60727,7020,Hypoprothrombinemias,21034,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11618,Psychotic Disorders,34300,139,chemically induced,60685,11605,"Psychoses, Substance-Induced",34265,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11768,Pyruvate Dehydrogenase Complex,34784,172,deficiency,60727,15325,Pyruvate Dehydrogenase Complex Deficiency Disease,364789,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11941,"Receptors, Adrenergic",35281,37,antagonists & inhibitors,60595,18674,Adrenergic Antagonists,55589,,,,EP_HM
+D,2019-12-03,8340,Mandibular Nerve,24845,293,injuries,60876,,61221,Trigeminal Nerve Injuries,788951,,,,,,,,,,,,,,,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,8340,Mandibular Nerve,24845,293,injuries,60876,80902,Mandibular Nerve Injuries,955472,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,11846,Radio Waves,34964,627,therapeutic use,61267,78702,Radiofrequency Therapy,943258,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,19602,Food and Beverages,58323,331,legislation & jurisprudence,60922,7881,"Legislation, Food",23507,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,48069,Tumor Necrosis Factors,572115,37,antagonists & inhibitors,60595,79424,Tumor Necrosis Factor Inhibitors,946058,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58539,Phosphatidylinositol 3-Kinase,59148,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58541,Class II Phosphatidylinositol 3-Kinases,765295,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58543,Class Ia Phosphatidylinositol 3-Kinase,764938,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58544,Class Ib Phosphatidylinositol 3-Kinase,764941,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58571,Vacuolar Sorting Protein VPS15,765233,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+A,2019-12-03,,,,,,,,,,,,,,,,4264,"DNA Topoisomerases, Type I",439293,37,antagonists & inhibitors,60595,59004,Topoisomerase I Inhibitors,769956,,,,EP_SCR
+A,2019-12-03,,,,,,,,,,,,,,,,13,Congenital Abnormalities,29,139,chemically induced,60685,14,"Abnormalities, Drug-Induced",34,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,110,Acetylcholinesterase,315,37,antagonists & inhibitors,60595,2800,Cholinesterase Inhibitors,8158,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,243,Adenosine Deaminase,728,37,antagonists & inhibitors,60595,58892,Adenosine Deaminase Inhibitors,768898,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,262,Adenylyl Cyclases,873567,37,antagonists & inhibitors,60595,67956,Adenylyl Cyclase Inhibitors,873565,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,308,Adrenocortical Hyperfunction,569771,151,congenital,60708,312,"Adrenal Hyperplasia, Congenital",1013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,418,Albumins,1260,97,blood,60642,12709,Serum Albumin,37571,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,418,Albumins,1260,652,urine,61301,419,Albuminuria,1261,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,450,Aldosterone,1358,37,antagonists & inhibitors,60595,451,Mineralocorticoid Receptor Antagonists,816176,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,515,alpha 1-Antitrypsin,1523,172,deficiency,60727,19896,alpha 1-Antitrypsin Deficiency,59262,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,519,alpha-Galactosidase,1552,172,deficiency,60727,795,Fabry Disease,2358,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,520,alpha-Glucosidases,1555,37,antagonists & inhibitors,60595,65089,Glycoside Hydrolase Inhibitors,860495,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,743,"Anemia, Hemolytic",2218,151,congenital,60708,745,"Anemia, Hemolytic, Congenital",2228,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,842,Ankle,2465,293,injuries,60876,16512,Ankle Injuries,49385,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,906,Antibodies,2667,96,biosynthesis,60639,917,Antibody Formation,2705,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,906,Antibodies,2667,172,deficiency,60727,7153,Immunologic Deficiency Syndromes,21450,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,990,Antithrombin III,3049,172,deficiency,60727,20152,Antithrombin III Deficiency,59946,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1092,Arachidonate 12-Lipoxygenase,3314,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1093,Arachidonate 15-Lipoxygenase,3317,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1094,Arachidonate 5-Lipoxygenase,3320,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1119,Arginase,3378,172,deficiency,60727,20162,Hyperargininemia,358331,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1123,Argininosuccinate Lyase,3396,172,deficiency,60727,56807,Argininosuccinic Aciduria,734488,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1132,Arm,3411,293,injuries,60876,1134,Arm Injuries,3417,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1141,Aromatase,3429,37,antagonists & inhibitors,60595,47072,Aromatase Inhibitors,559263,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1142,Aromatic-L-Amino-Acid Decarboxylases,3442,37,antagonists & inhibitors,60595,65105,Aromatic Amino Acid Decarboxylase Inhibitors,848598,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1151,Arsenic,3465,506,poisoning,61130,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1152,Arsenicals,3466,506,poisoning,61130,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1152,Arsenicals,3466,633,toxicity,61274,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10450,Endopeptidases,30876,37,antagonists & inhibitors,60595,11480,Protease Inhibitors,33911,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10455,Peptides,30900,96,biosynthesis,60639,10452,Peptide Biosynthesis,550427,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10727,Phosphoric Diester Hydrolases,31695,37,antagonists & inhibitors,60595,10726,Phosphodiesterase Inhibitors,31692,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10755,Organophosphates,592889,506,poisoning,61130,62025,Organophosphate Poisoning,796846,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10879,Piperazines,32077,31,analogs & derivatives,60581,77489,Piperazine,939976,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10920,Placenta,32166,254,growth & development,60828,10929,Placentation,32191,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,166,cytology,60717,59828,Plant Cells,780786,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,254,growth & development,60828,63245,Plant Development,820277,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,10944,Plants,32229,502,physiology,61125,18521,Plant Physiological Phenomena,721555,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11065,Poly(ADP-ribose) Polymerases,475372,37,antagonists & inhibitors,60595,67856,Poly(ADP-ribose) Polymerase Inhibitors,873036,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11095,Polyethylenes,32643,31,analogs & derivatives,60581,20959,Polyethylene,32644,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11163,Hydroxymethylbilane Synthase,32881,172,deficiency,60727,17118,"Porphyria, Acute Intermittent",51121,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11188,Potassium,32957,172,deficiency,60727,11191,Potassium Deficiency,32962,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11449,Prostaglandin Endoperoxides,33798,31,analogs & derivatives,60581,11450,"Prostaglandin Endoperoxides, Synthetic",33801,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11451,Prostaglandin-Endoperoxide Synthases,641056,37,antagonists & inhibitors,60595,16861,Cyclooxygenase Inhibitors,50484,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11453,Prostaglandins,33825,31,analogs & derivatives,60581,11465,"Prostaglandins, Synthetic",33872,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11453,Prostaglandins,33825,37,antagonists & inhibitors,60595,11448,Prostaglandin Antagonists,33794,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11454,Prostaglandins A,33827,31,analogs & derivatives,60581,11455,"Prostaglandins A, Synthetic",33831,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11458,Prostaglandins E,33838,31,analogs & derivatives,60581,11459,"Prostaglandins E, Synthetic",33842,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11460,Prostaglandins F,33845,31,analogs & derivatives,60581,11461,"Prostaglandins F, Synthetic",33849,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11486,Protein C,33926,172,deficiency,60727,20151,Protein C Deficiency,59944,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11494,Protein Kinases,33952,37,antagonists & inhibitors,60595,47428,Protein Kinase Inhibitors,563761,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,96,biosynthesis,60639,14176,Protein Biosynthesis,549975,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,97,blood,60642,1798,Blood Proteins,5218,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,134,cerebrospinal fluid,60681,2556,Cerebrospinal Fluid Proteins,7455,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,172,deficiency,60727,11488,Protein Deficiency,33930,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11506,Proteins,34003,652,urine,61301,11507,Proteinuria,34004,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11516,Prothrombin,34022,172,deficiency,60727,7020,Hypoprothrombinemias,21034,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11618,Psychotic Disorders,34300,139,chemically induced,60685,11605,"Psychoses, Substance-Induced",34265,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11768,Pyruvate Dehydrogenase Complex,34784,172,deficiency,60727,15325,Pyruvate Dehydrogenase Complex Deficiency Disease,364789,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,11941,"Receptors, Adrenergic",35281,37,antagonists & inhibitors,60595,18674,Adrenergic Antagonists,55589,,,,EP_HM
+D,2019-12-03,8340,Mandibular Nerve,24845,293,injuries,60876,,61221,Trigeminal Nerve Injuries,788951,,,,,,,,,,,,,,,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,8340,Mandibular Nerve,24845,293,injuries,60876,80902,Mandibular Nerve Injuries,955472,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,11846,Radio Waves,34964,627,therapeutic use,61267,78702,Radiofrequency Therapy,943258,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,19602,Food and Beverages,58323,331,legislation & jurisprudence,60922,7881,"Legislation, Food",23507,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,48069,Tumor Necrosis Factors,572115,37,antagonists & inhibitors,60595,79424,Tumor Necrosis Factor Inhibitors,946058,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58539,Phosphatidylinositol 3-Kinase,59148,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58541,Class II Phosphatidylinositol 3-Kinases,765295,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58543,Class Ia Phosphatidylinositol 3-Kinase,764938,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58544,Class Ib Phosphatidylinositol 3-Kinase,764941,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+AE,2019-12-03,,,,,,,,,,,,,,,,58571,Vacuolar Sorting Protein VPS15,765233,37,antagonists & inhibitors,60595,81082,Phosphoinositide-3 Kinase Inhibitors,957708,,,,2000
+A,2019-12-03,,,,,,,,,,,,,,,,4264,"DNA Topoisomerases, Type I",439293,37,antagonists & inhibitors,60595,59004,Topoisomerase I Inhibitors,769956,,,,EP_SCR
+A,2019-12-03,,,,,,,,,,,,,,,,13,Congenital Abnormalities,29,139,chemically induced,60685,14,"Abnormalities, Drug-Induced",34,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,110,Acetylcholinesterase,315,37,antagonists & inhibitors,60595,2800,Cholinesterase Inhibitors,8158,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,243,Adenosine Deaminase,728,37,antagonists & inhibitors,60595,58892,Adenosine Deaminase Inhibitors,768898,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,262,Adenylyl Cyclases,873567,37,antagonists & inhibitors,60595,67956,Adenylyl Cyclase Inhibitors,873565,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,308,Adrenocortical Hyperfunction,569771,151,congenital,60708,312,"Adrenal Hyperplasia, Congenital",1013,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,418,Albumins,1260,97,blood,60642,12709,Serum Albumin,37571,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,418,Albumins,1260,652,urine,61301,419,Albuminuria,1261,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,450,Aldosterone,1358,37,antagonists & inhibitors,60595,451,Mineralocorticoid Receptor Antagonists,816176,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,515,alpha 1-Antitrypsin,1523,172,deficiency,60727,19896,alpha 1-Antitrypsin Deficiency,59262,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,519,alpha-Galactosidase,1552,172,deficiency,60727,795,Fabry Disease,2358,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,520,alpha-Glucosidases,1555,37,antagonists & inhibitors,60595,65089,Glycoside Hydrolase Inhibitors,860495,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,743,"Anemia, Hemolytic",2218,151,congenital,60708,745,"Anemia, Hemolytic, Congenital",2228,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,842,Ankle,2465,293,injuries,60876,16512,Ankle Injuries,49385,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,906,Antibodies,2667,96,biosynthesis,60639,917,Antibody Formation,2705,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,906,Antibodies,2667,172,deficiency,60727,7153,Immunologic Deficiency Syndromes,21450,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,990,Antithrombin III,3049,172,deficiency,60727,20152,Antithrombin III Deficiency,59946,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1092,Arachidonate 12-Lipoxygenase,3314,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1093,Arachidonate 15-Lipoxygenase,3317,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1094,Arachidonate 5-Lipoxygenase,3320,37,antagonists & inhibitors,60595,16859,Lipoxygenase Inhibitors,50478,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1119,Arginase,3378,172,deficiency,60727,20162,Hyperargininemia,358331,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1123,Argininosuccinate Lyase,3396,172,deficiency,60727,56807,Argininosuccinic Aciduria,734488,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1132,Arm,3411,293,injuries,60876,1134,Arm Injuries,3417,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1141,Aromatase,3429,37,antagonists & inhibitors,60595,47072,Aromatase Inhibitors,559263,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1142,Aromatic-L-Amino-Acid Decarboxylases,3442,37,antagonists & inhibitors,60595,65105,Aromatic Amino Acid Decarboxylase Inhibitors,848598,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1151,Arsenic,3465,506,poisoning,61130,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1152,Arsenicals,3466,506,poisoning,61130,20261,Arsenic Poisoning,358100,,,,EP_HM
+A,2019-12-03,,,,,,,,,,,,,,,,1152,Arsenicals,3466,633,toxicity,61274,20261,Arsenic Poisoning,358100,,,,EP_HM
