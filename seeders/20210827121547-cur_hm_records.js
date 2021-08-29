@@ -15,7 +15,7 @@ module.exports = {
     for(let i=4; i<el.length; i++){
       if(el[i].indexOf('"') > -1){
         if(p){
-          tab.push(ch+", "+el[i]);
+          tab.push((ch+", "+el[i]).slice(1,-1));
           ch="";
         }
         p = !p;

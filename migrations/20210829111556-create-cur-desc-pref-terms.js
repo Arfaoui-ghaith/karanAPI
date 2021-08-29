@@ -1,24 +1,26 @@
 'use strict';
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    await queryInterface.createTable('yep_qual_records', {
+    await queryInterface.createTable('cur_desc_pref_terms', {
       task_id: Sequelize.INTEGER,
       trans_code: Sequelize.STRING(2),
-      trans_date: Sequelize.DATE,
+      trans_date: {
+        type: Sequelize.DATE,
+        allowNull: false
+      },
       old_ui: Sequelize.INTEGER,
-      old_name: Sequelize.STRING(255),
+      old_rec_name: Sequelize.STRING(4000),
+      old_value: Sequelize.STRING(4000),
       old_term_type: Sequelize.STRING(1),
       old_term_ui: Sequelize.INTEGER,
-      old_qe: Sequelize.STRING(255),
-      old_qa: Sequelize.STRING(2),
+      old_term_name: Sequelize.STRING(255),
       new_ui: Sequelize.INTEGER,
-      new_name: Sequelize.STRING(255),
+      new_rec_name: Sequelize.STRING(4000),
+      new_value: Sequelize.STRING(4000),
       new_term_type: Sequelize.STRING(1),
       new_term_ui: Sequelize.INTEGER,
-      new_qe: Sequelize.STRING(255),
-      new_qa: Sequelize.STRING(2),
-      term_type_changed: Sequelize.STRING(1),
-      special_flag: Sequelize.STRING(1),
+      new_term_name: Sequelize.STRING(255),
+      dcms_pt_ui: Sequelize.INTEGER,
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE
@@ -30,6 +32,6 @@ module.exports = {
     });
   },
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable('yep_qual_records');
+    await queryInterface.dropTable('cur_desc_pref_terms');
   }
 };

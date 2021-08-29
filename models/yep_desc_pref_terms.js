@@ -3,7 +3,7 @@ const {
   Model
 } = require('sequelize');
 module.exports = (sequelize, DataTypes) => {
-  class yep_desc_pref_terms extends Model {
+  class Yep_desc_pref_term extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -13,7 +13,7 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
     }
   };
-  yep_desc_pref_terms.init({
+  Yep_desc_pref_term.init({
     task_id: {
       type: DataTypes.INTEGER
     },
@@ -64,7 +64,8 @@ module.exports = (sequelize, DataTypes) => {
     },
   }, {
     sequelize,
-    modelName: 'yep_desc_pref_terms',
+    modelName: 'Yep_desc_pref_term',
+    tableName: 'yep_desc_pref_terms'
   });
-  return yep_desc_pref_terms;
+  return Yep_desc_pref_term;
 };

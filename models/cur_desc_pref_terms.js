@@ -3,7 +3,7 @@ const {
   Model
 } = require('sequelize');
 module.exports = (sequelize, DataTypes) => {
-  class yep_qual_records extends Model {
+  class cur_desc_pref_terms extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -13,27 +13,29 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
     }
   };
-  yep_qual_records.init({
+  cur_desc_pref_terms.init({
     task_id: DataTypes.INTEGER,
     trans_code: DataTypes.STRING(2),
-    trans_date: DataTypes.DATE,
+    trans_date: {
+      type: DataTypes.DATE,
+      allowNull: false
+    },
     old_ui: DataTypes.INTEGER,
-    old_name: DataTypes.STRING(255),
+    old_rec_name: DataTypes.STRING(4000),
+    old_value: DataTypes.STRING(4000),
     old_term_type: DataTypes.STRING(1),
     old_term_ui: DataTypes.INTEGER,
-    old_qe: DataTypes.STRING(255),
-    old_qa: DataTypes.STRING(2),
+    old_term_name: DataTypes.STRING(255),
     new_ui: DataTypes.INTEGER,
-    new_name: DataTypes.STRING(255),
+    new_rec_name: DataTypes.STRING(4000),
+    new_value: DataTypes.STRING(4000),
     new_term_type: DataTypes.STRING(1),
     new_term_ui: DataTypes.INTEGER,
-    new_qe: DataTypes.STRING(255),
-    new_qa: DataTypes.STRING(2),
-    term_type_changed: DataTypes.STRING(1),
-    special_flag: DataTypes.STRING(1)
+    new_term_name: DataTypes.STRING(255),
+    dcms_pt_ui: DataTypes.INTEGER
   }, {
     sequelize,
-    modelName: 'yep_qual_records',
+    modelName: 'cur_desc_pref_terms',
   });
-  return yep_qual_records;
+  return cur_desc_pref_terms;
 };
