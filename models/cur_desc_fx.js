@@ -46,6 +46,7 @@ module.exports = (sequelize, DataTypes) => {
   }, {
     sequelize,
     modelName: 'cur_desc_fx',
+    tableName: 'cur_desc_fx'
   });
   return cur_desc_fx;
 };

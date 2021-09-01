@@ -1,7 +1,7 @@
 'use strict';
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    await queryInterface.createTable('cur_desc_ecs', {
+    await queryInterface.createTable('cur_desc_ec', {
       trans_code: Sequelize.STRING(2),
       trans_date: Sequelize.DATE,
       old_rec_ui: Sequelize.INTEGER,
@@ -43,6 +43,6 @@ module.exports = {
     });
   },
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable('cur_desc_ecs');
+    await queryInterface.dropTable('cur_desc_ec');
   }
 };

@@ -1,7 +1,7 @@
 'use strict';
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    await queryInterface.createTable('cur_desc_pubtypes', {
+    await queryInterface.createTable('cur_desc_pubtype', {
       task_id: {
         type: Sequelize.INTEGER,
         allowNull: false
@@ -96,6 +96,6 @@ module.exports = {
     });
   },
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable('cur_desc_pubtypes');
+    await queryInterface.dropTable('cur_desc_pubtype');
   }
 };

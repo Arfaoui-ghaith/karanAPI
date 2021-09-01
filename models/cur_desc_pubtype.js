@@ -100,6 +100,7 @@ module.exports = (sequelize, DataTypes) => {
   }, {
     sequelize,
     modelName: 'cur_desc_pubtype',
+    tableName: 'cur_desc_pubtype'
   });
   return cur_desc_pubtype;
 };

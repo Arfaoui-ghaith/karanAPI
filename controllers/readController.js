@@ -262,19 +262,19 @@ exports.cur_desc = catchAsync(async (req, res, next) => {
         
     });
 
-    const cur_desc_fx = await models.cur_desc_ec.findAll({
+    const cur_desc_fx = await models.cur_desc_fx.findAll({
         where: { trans_date: date },
         attributes:{exclude:['id']}, 
         
     });
 
-    const cur_desc_pubtype = await models.cur_desc_ec.findAll({
+    const cur_desc_pubtype = await models.cur_desc_pubtype.findAll({
         where: { trans_date: date },
         attributes:{exclude:['id']}, 
         
     });
 
-    const cur_desc_trees = await models.cur_desc_ec.findAll({
+    const cur_desc_trees = await models.cur_desc_trees.findAll({
         where: { trans_date: date },
         attributes:{exclude:['id']}, 
         
@@ -292,5 +292,34 @@ exports.cur_desc = catchAsync(async (req, res, next) => {
             cur_desc_pubtype: {results: cur_desc_pubtype.length,cur_desc_pubtype},
             cur_desc_trees: {results: cur_desc_trees.length,cur_desc_trees},
         }
+    });
+});
+
+exports.yep_hm_sweep = catchAsync(async (req, res, next) => {
+    const yep_hm_sweep = await models.yep_hm_sweep.findAll({attributes:{exclude:['id']}});
+
+    if(!yep_hm_sweep){
+        return next(new AppError('No yep_hm_sweep found.', 404));
+    }
+
+    res.status(200).json({
+        status: 'success',
+        results: yep_hm_sweep.length,
+        yep_hm_sweep
+    });
+});
+
+
+exports.yep_ec = catchAsync(async (req, res, next) => {
+    const yep_ec = await models.yep_ec.findAll({attributes:{exclude:['id']}});
+
+    if(!yep_ec){
+        return next(new AppError('No yep_ec found.', 404));
+    }
+
+    res.status(200).json({
+        status: 'success',
+        results: yep_ec.length,
+        yep_ec
     });
 });
